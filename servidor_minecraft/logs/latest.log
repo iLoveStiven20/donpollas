@@ -1,276 +1,37 @@
-[15:41:57] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[15:41:57] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[15:41:57] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[15:41:58] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[15:41:58] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[16:17:09] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[16:17:09] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[16:17:10] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:17:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[16:17:10] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - SkinsRestorer (15.7.8)
-[15:42:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:42:05] [ServerMain/INFO]: Loaded 1290 recipes
-[15:42:05] [ServerMain/INFO]: Loaded 1399 advancements
-[15:42:06] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[15:42:06] [Server thread/INFO]: Loading properties
-[15:42:06] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[15:42:07] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[15:42:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:42:07] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:42:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[15:42:08] [Server thread/INFO]: Default game type: SURVIVAL
-[15:42:08] [Server thread/INFO]: Generating keypair
-[15:42:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:42:08] [Server thread/INFO]: Using epoll channel type
-[15:42:08] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[15:42:08] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[15:42:08] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
-[15:42:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:42:08] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
-[15:42:10] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[15:42:11] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[15:42:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:42:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:42:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:42:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:42:11] [Server thread/INFO]: Preparing level "world"
-[15:42:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[15:42:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[15:42:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[15:42:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[15:42:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[15:42:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[15:42:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[15:42:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
-[15:42:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
-[15:42:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[15:42:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[15:42:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[15:42:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[15:42:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:42:13] [Server thread/INFO]: Time elapsed: 1300 ms
-[15:42:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:42:13] [Server thread/INFO]: Time elapsed: 270 ms
-[15:42:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:42:13] [Server thread/INFO]: Time elapsed: 133 ms
-[15:42:13] [Server thread/INFO]: [spark] Starting background profiler...
-[15:42:14] [Server thread/INFO]: Done preparing level "world" (3.110s)
-[15:42:14] [Server thread/INFO]: Running delayed init tasks
-[15:42:14] [Server thread/INFO]: Done (18.832s)! For help, type "help"
-[15:42:14] [Server thread/INFO]: Timings Reset
-[15:42:40] [User Authenticator #0/INFO]: UUID of player _NoSoyNuv is ec9a1b92-50cf-3b05-b9b9-88e1ddbce82d
-[15:42:43] [User Authenticator #0/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
-[15:42:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@4e0b247a[id=ec9a1b92-50cf-3b05-b9b9-88e1ddbce82d,name=_NoSoyNuv,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1NDc1NDEzODk3NCwKICAicHJvZmlsZUlkIiA6ICJjN2ZiNDc1NjU3ZjM0Y2U4OTI4ZGZjZjI3YzEzZDliNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfTm9Tb3lOdXYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODY1OWVhNzNkZjA0M2QxNGRlZTI5NWVhZWFkMjFjMmQwYjMzOTM3OGFkOTczMzZmOTEzNDllYWYxMTY1YjY4YiIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGJjMjFlMjIyNTI4ZTMwZGM4ODQ0NTMxNGY3YmU2ZmYxMmQzYWVlYmMzYzE5MjA1NGZiYTdlM2IzZjhjNzdiMSIKICAgIH0KICB9Cn0=, signature=wX0JirPlTNfDhflTenMzhBYxhJCF42JWJo+pMjyjyVzJ5uEhYCUl3bex5HXqoqdFiFJSibfXsMKeBAvjoRujQqf4CKJsTHWAXBWrlhTatU4FFrKnLkQvtSvQR0jnfyGDt3x6ANpAR/gXeinxSMCEA2n8MpQ/vsOopHYT+8bPB5GeN9QBT9HzS30D3iKHlH1QDMwgl4dT47azD2fwIk1TRe2RBHolaPzAFbzzgF+ApZb/vZrA/ucKysnqdTNSw8WPhpyxaOeIltn8NOtHPnlJGef3Z7RcSyQIw6F3VSHW7eJaEeFo/+rijwGpQ3KFgUpPdp+zgPiL89Tn1jzSq9ArxZJfYERTAfQra2Q58S0RnUrUVRLSuLOrPqOmDlaQ129Z76ggJ6fei7YkbqJheBM8RZdZ30tZ+fHsiWk5YTqaslxjTT2ZWFT7jmpJ8Rwm+4jEqB2r8G2Tfs3LnkPps6fAJgKqrGO9hpT9C64s+rQ+jXqYIs1/RIkdXFCTum7UhwjripMOuw4I2C4xGFDV2pIm8E9R7wcDV0Nqhxj7Ruv/op/uzKyGbep28MLJJY5UDi7N3232dwsWbphlMfFoet6seinMlu98y/2PMHoqC/dxuo/9byowhKP32guGLGcjqsfUQ+DrdagjVMES/qBhAKjl0lQP9Oj5gNXVhr3dqkmrlB4=]]}] lost connection: Disconnected
-[15:42:45] [Server thread/INFO]: IloveStiven_ joined the game
-[15:42:45] [Server thread/INFO]: IloveStiven_[/127.130.169.114:37331] logged in with entity id 23 at ([world]1567.0326662270827, 64.0, -285.62132590681296)
-[15:43:17] [User Authenticator #0/INFO]: UUID of player _NoSoyNuv is ec9a1b92-50cf-3b05-b9b9-88e1ddbce82d
-[15:43:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/title @a title {"text":"STIVEN GAY"}<--[HERE]
-[15:43:22] [Server thread/INFO]: _NoSoyNuv joined the game
-[15:43:22] [Server thread/INFO]: _NoSoyNuv[/127.178.55.0:43633] logged in with entity id 253 at ([world]1507.8816998013197, 20.0, 1175.258825053228)
-[15:43:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/title @a title {"text":"STIVEN GAY"}<--[HERE]
-[15:43:32] [Server thread/INFO]: Showing new title for 2 players
-[15:43:43] [Server thread/INFO]: Showing new title for 2 players
-[15:43:47] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveStiven_> oe
-[15:43:52] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveStiven_> cambia la semilla
-[15:43:55] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> no
-[15:43:58] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> asi nomas
-[15:44:04] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> nono
-[15:44:06] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> q se jodab
-[15:44:08] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> q se jodan
-[15:44:14] [User Authenticator #0/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
-[15:44:16] [Server thread/INFO]: IFrom_t8 joined the game
-[15:44:16] [Server thread/INFO]: IFrom_t8[/127.141.254.15:35377] logged in with entity id 985 at ([world]82.5, 69.0, -9.5)
-[15:44:20] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> IFrom_t8 CALLATE
-[15:44:25] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> IFrom_t8 CALLATE
-[15:44:25] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> IFrom_t8 CALLATE
-[15:44:25] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> IFrom_t8 CALLATE
-[15:44:25] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> IFrom_t8 CALLATE
-[15:44:26] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> IFrom_t8 CALLATE
-[15:44:26] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> IFrom_t8 CALLATE
-[15:44:26] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> IFrom_t8 CALLATE
-[15:44:26] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> IFrom_t8 CALLATE
-[15:44:43] [User Authenticator #0/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[15:44:45] [Server thread/INFO]: nitr0_club joined the game
-[15:44:45] [Server thread/INFO]: nitr0_club[/127.162.51.206:50883] logged in with entity id 1582 at ([world]86.5, 69.0, -15.5)
-[15:44:59] [Server thread/INFO]: _NoSoyNuv issued server command: /msg IloveStiven_ asd
-[15:46:02] [Server thread/INFO]: _NoSoyNuv issued server command: /msg IloveStiven_ 1316 70
-[15:46:10] [Server thread/INFO]: _NoSoyNuv issued server command: /msg IloveStiven_ 1316 70 1259
-[15:46:13] [Server thread/INFO]: Villager Villager['Nitwit'/2510, uuid='926abbf9-6fac-4017-a7aa-7e589c468a57', l='ServerLevel[world]', x=1223.72, y=115.00, z=84.63, cpos=[76, 5], tl=191, v=true] died, message: 'Nitwit suffocated in a wall'
-[15:46:15] [Server thread/INFO]: Villager Villager['Villager'/2723, uuid='b0b8eaa4-71f0-4271-a41a-ca056d1de8ed', l='ServerLevel[world]', x=1180.28, y=104.56, z=116.37, cpos=[73, 7], tl=191, v=true] died, message: 'Villager suffocated in a wall'
-[15:46:15] [Server thread/INFO]: Villager Villager['Villager'/2726, uuid='117dfeb5-aa3a-480b-9d44-2aff5b6ee8d5', l='ServerLevel[world]', x=1180.28, y=105.00, z=108.37, cpos=[73, 6], tl=191, v=true] died, message: 'Villager suffocated in a wall'
-[15:46:35] [Server thread/INFO]: _NoSoyNuv issued server command: /msg IloveStiven_ 1316 70 1259
-[15:46:44] [Server thread/INFO]: _NoSoyNuv has made the advancement [Not Today, Thank You]
-[15:47:12] [Async Chat Thread - #3/INFO]: [Not Secure] <_NoSoyNuv> IFrom_t8 695 -12 952
-[15:47:16] [User Authenticator #1/INFO]: UUID of player DANIM9778 is 2ae604bf-08b6-3fa9-8dc3-7a13cbc3eefc
-[15:47:19] [Server thread/INFO]: DANIM9778 joined the game
-[15:47:19] [Server thread/INFO]: DANIM9778[/127.118.110.55:50845] logged in with entity id 4364 at ([world]81.5, 72.0, -24.5)
-[15:48:57] [Server thread/INFO]: DANIM9778 has made the advancement [Monster Hunter]
-[15:49:30] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 0.38971560342595524
-[15:50:06] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.5454164830729269
-[15:50:06] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.952816672152693
-[15:50:06] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 1.3545024295024746
-[15:50:06] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 1.7499060051600566
-[15:50:06] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 2.1130207486394
-[15:50:21] [Server thread/INFO]: _NoSoyNuv issued server command: /msg IloveStiven_ 1316 70 1259
-[15:50:43] [Server thread/INFO]: _NoSoyNuv issued server command: /msg IloveStiven_ yo estoy en una mina
-[15:50:56] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 0.41368562426839617
-[15:50:56] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 0.6673013903214553
-[15:50:59] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 0.5214441213681064
-[15:51:18] [User Authenticator #2/INFO]: UUID of player iMathias1 is eb11368f-8c9b-358d-a35e-8a47f5499f8a
-[15:51:19] [Server thread/INFO]: iMathias1 joined the game
-[15:51:19] [Server thread/INFO]: iMathias1[/127.171.122.209:56039] logged in with entity id 7570 at ([world]133.86933105383602, 73.0, -14.978874211009076)
-[15:51:42] [Async Chat Thread - #4/INFO]: [Not Secure] <iMathias1> esa musica que
-[15:51:55] [Async Chat Thread - #4/INFO]: [Not Secure] <iMathias1> ?
-[15:51:57] [Async Chat Thread - #4/INFO]: [Not Secure] <iMathias1> que?w
-[15:51:58] [Async Chat Thread - #4/INFO]: [Not Secure] <DANIM9778> ASD
-[15:52:07] [Server thread/INFO]: iMathias1 issued server command: /gamemode spectator
-[15:52:07] [Server thread/INFO]: [iMathias1: Set own game mode to Spectator Mode]
-[15:52:12] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 0.2954091700806316
-[15:52:16] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 0.3023610061798253
-[15:52:18] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 0.5131523155957041
-[15:52:18] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 0.8851445194722771
-[15:52:18] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 0.6022806902913942
-[15:52:19] [Async Chat Thread - #4/INFO]: [Not Secure] <iMathias1> vas full cuero stiven xddw
-[15:52:25] [Server thread/INFO]: iMathias1 issued server command: /gamemode creative
-[15:52:25] [Server thread/INFO]: [iMathias1: Set own game mode to Creative Mode]
-[15:52:29] [Server thread/INFO]: iMathias1 issued server command: /gamemode survival
-[15:52:29] [Server thread/INFO]: [iMathias1: Set own game mode to Survival Mode]
-[15:52:32] [Server thread/INFO]: _NoSoyNuv has made the advancement [Diamonds!]
-[15:52:44] [Async Chat Thread - #4/INFO]: [Not Secure] <_NoSoyNuv> yiyis diamantes
-[15:53:06] [Server thread/INFO]: iMathias1 has made the advancement [Stone Age]
-[15:53:13] [Server thread/INFO]: iMathias1 has made the advancement [Getting an Upgrade]
-[15:53:31] [Server thread/INFO]: iMathias1 lost connection: Disconnected
-[15:53:31] [Server thread/INFO]: iMathias1 left the game
-[15:53:37] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.7361749345959652
-[15:53:37] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 2.0230821978540234
-[15:53:37] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 3.324211084011665
-[15:53:37] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 4.639244398935489
-[15:53:37] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 5.967862896453312
-[15:53:37] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 7.309745683312599
-[15:53:37] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.9488250095737385
-[15:53:37] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.9818610582276506
-[15:53:37] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 1.0142046562721134
-[15:53:37] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 1.0458608696675924
-[15:53:37] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.3408795979282786
-[15:53:38] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.3631284256750291
-[15:53:38] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 1.4324462362250188
-[15:53:38] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.871048499855192
-[15:53:38] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 1.4969337584819868
-[15:53:38] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.946763966131698
-[15:53:38] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.4075975591348424
-[15:53:43] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 0.7748968314792819
-[15:53:43] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.1798355839665646
-[15:53:43] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 2.4776128766193324
-[15:53:43] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 2.195338288476023
-[15:53:43] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 4.18579905815443
-[15:53:43] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 3.1884448888295083
-[15:53:43] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 0.7902698798658321
-[15:53:43] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 0.7957036302252618
-[15:53:43] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 0.8013197324860357
-[15:53:43] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 0.8067601452859208
-[15:53:43] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 0.9291409144923364
-[15:53:43] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 0.8121402454383997
-[15:53:43] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 1.727911078335751
-[15:53:43] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 1.686957123703337
-[15:53:44] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 1.6909343295949384
-[15:53:44] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 0.7707296722020374
-[15:53:44] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 1.6935728691636314
-[15:53:44] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.554615844893192
-[15:53:44] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 1.6585449144070026
-[15:53:44] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 2.287779657603437
-[15:53:44] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 1.624217520165189
-[15:53:44] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 0.6319190828606907
-[15:53:44] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 1.5905766751995998
-[15:53:44] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 1.557608648496739
-[15:53:46] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 0.5218067876534747
-[15:53:46] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 0.6334336123049411
-[15:53:47] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 2.342695163265944
-[15:53:47] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 2.342695163265944
-[15:53:47] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.48889869246716
-[15:53:47] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.633297907638962
-[15:53:47] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 0.7570505707667508
-[15:53:47] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.31230985334366324
-[15:53:47] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.013179816106117
-[15:53:47] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.6272965222324274
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 2.088289948209649
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.9036191809942693
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 3.1806747987964172
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 1.1438012951799692
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 4.28984171740899
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 1.349949391817404
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.0816074980514259
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 1.5236821136790013
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.0979027478481385
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.1137258976672229
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 2.2871513060508732
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.1741357495673128
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.159561791023748
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 2.3777558144383875
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.1882235865767825
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.2022822494863021
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.215753539169782
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.0921147222603622
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 2.2064771627432265
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 0.7388196818164943
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 1.846481695068178
-[15:53:48] [Server thread/WARN]: Spruce Boat (vehicle of IFrom_t8) moved wrongly! 0.3612099465941583
-[15:53:51] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.43461923857159945
-[15:53:52] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.7206856456277251
-[15:53:52] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 0.3233174819541773
-[15:53:52] [Server thread/WARN]: Spruce Boat (vehicle of nitr0_club) moved wrongly! 1.1760345396506295
-[15:53:59] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 0.3481510942507384
-[15:53:59] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 0.6015853191942142
-[15:53:59] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 0.8414342417655689
-[15:54:08] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 0.4710103215951449
-[15:54:08] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 1.341331528922467
-[15:54:08] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 2.193545880994918
-[15:54:08] [Server thread/WARN]: Spruce Boat (vehicle of DANIM9778) moved wrongly! 3.0281939373511477
-[15:54:25] [Server thread/INFO]: _NoSoyNuv issued server command: /msg IloveStiven_ ps esclavisa a los aldeanos
-[15:54:54] [Server thread/INFO]: _NoSoyNuv has made the advancement [Minecraft: Trial(s) Edition]
-[15:54:58] [Server thread/INFO]: You whisper to IloveStiven_: cambio la semilla?
-[15:55:01] [Async Chat Thread - #7/INFO]: [Not Secure] <_NoSoyNuv> trial coso XD
-[15:55:07] [Server thread/INFO]: You whisper to IloveStiven_: cambio la semilla?
-[15:55:15] [Async Chat Thread - #7/INFO]: [Not Secure] <_NoSoyNuv> no
-[15:55:24] [Server thread/INFO]: IFrom_t8 has made the advancement [Stone Age]
-[15:55:45] [Async Chat Thread - #7/INFO]: [Not Secure] <_NoSoyNuv> IFrom_t8 avanza 1000 bloques y encuentras nuevos biomas
-[15:55:52] [Server thread/INFO]: nitr0_club has made the advancement [Stone Age]
-[15:55:55] [Server thread/INFO]: IFrom_t8 has made the advancement [Getting an Upgrade]
-[15:56:29] [Async Chat Thread - #7/INFO]: [Not Secure] <_NoSoyNuv> 12 diamantes
-[15:56:33] [Server thread/INFO]: nitr0_club has made the advancement [Getting an Upgrade]
-[15:56:42] [Server thread/INFO]: IloveStiven_ issued server command: /r w
-[15:57:07] [Server thread/INFO]: Villager Villager['Villager'/555, uuid='b184afee-4ce3-478c-b06c-d8dd7402d81d', l='ServerLevel[world]', x=1295.30, y=62.56, z=1281.30, cpos=[80, 80], tl=16790, v=true] died, message: 'Villager was slain by Zombie'
-[15:57:09] [Server thread/INFO]: IFrom_t8 lost connection: Disconnected
-[15:57:09] [Server thread/INFO]: IFrom_t8 left the game
-[15:57:17] [User Authenticator #3/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
-[15:57:19] [Server thread/INFO]: IFrom_t8 joined the game
-[15:57:19] [Server thread/INFO]: IFrom_t8[/127.141.254.15:50365] logged in with entity id 12500 at ([world]906.5780879509158, 43.06618091006357, -439.30000001192093)
-[15:57:23] [Server thread/INFO]: _NoSoyNuv has made the advancement [Hot Stuff]
-[15:57:53] [Server thread/INFO]: DANIM9778 has made the advancement [Stone Age]
-[15:58:01] [Server thread/INFO]: IloveStiven_ has made the advancement [Sweet Dreams]
-[15:58:54] [Async Chat Thread - #8/INFO]: [Not Secure] <_NoSoyNuv> IFrom_t8 avanza 1000 bloques y encuentras nuevos biomas
-[15:58:54] [Async Chat Thread - #8/INFO]: [Not Secure] <_NoSoyNuv> IFrom_t8 avanza 1000 bloques y encuentras nuevos biomas
-[15:59:09] [Async Chat Thread - #9/INFO]: [Not Secure] <_NoSoyNuv> no
-[15:59:12] [Async Chat Thread - #9/INFO]: [Not Secure] <_NoSoyNuv> quiero mas cosas
-[15:59:29] [Server thread/INFO]: DANIM9778 has made the advancement [Getting an Upgrade]
-[15:59:32] [Server thread/INFO]: IFrom_t8 has made the advancement [Monster Hunter]
-[15:59:59] [Async Chat Thread - #9/INFO]: [Not Secure] <_NoSoyNuv> 260 ms el nitr0_club XD
-[16:03:14] [Server thread/INFO]: DANIM9778 has made the advancement [Acquire Hardware]
-[16:03:19] [Server thread/INFO]: nitr0_club has made the advancement [Acquire Hardware]
-[16:03:59] [Async Chat Thread - #10/INFO]: [Not Secure] <_NoSoyNuv> yo tmb tengo otro clan
-[16:04:01] [Server thread/INFO]: nitr0_club has made the advancement [Isn't It Iron Pick]
-[16:04:02] [Async Chat Thread - #10/INFO]: [Not Secure] <_NoSoyNuv> dea
-[16:04:58] [Server thread/INFO]: DANIM9778 has made the advancement [Isn't It Iron Pick]
-[16:05:11] [User Authenticator #4/INFO]: UUID of player super_minipeka is 6a682e95-e2f7-3aea-ae66-adee8e49505b
-[16:05:12] [Server thread/INFO]: super_minipeka joined the game
-[16:05:12] [Server thread/INFO]: super_minipeka[/127.70.140.123:51177] logged in with entity id 15786 at ([world]80.5, 73.0, -13.5)
-[16:05:20] [Server thread/INFO]: _NoSoyNuv has completed the challenge [It Spreads]
-[16:05:44] [Async Chat Thread - #12/INFO]: [Not Secure] <_NoSoyNuv> nunca me pase mdc
-[16:05:56] [Async Chat Thread - #12/INFO]: [Not Secure] <_NoSoyNuv> nunca me pase mc :v
-[16:06:31] [Async Chat Thread - #12/INFO]: [Not Secure] <_NoSoyNuv> 4?
-[16:08:12] [Server thread/INFO]: DANIM9778 has made the advancement [Diamonds!]
-[16:08:16] [Server thread/INFO]: nitr0_club has made the advancement [Diamonds!]
-[16:08:56] [Async Chat Thread - #14/INFO]: [Not Secure] <_NoSoyNuv> yo tengo 30 diamantes DANIM9778
-[16:09:58] [Server thread/INFO]: Villager Villager['Villager'/554, uuid='862ef8cd-c6ef-4fa9-b31d-1c2f3c669f45', l='ServerLevel[world]', x=1295.42, y=62.74, z=1281.30, cpos=[80, 80], tl=32545, v=true] died, message: 'Villager was slain by Drowned'
-[16:10:05] [Server thread/INFO]: IFrom_t8 issued server command: /party invite
-[16:10:17] [Async Chat Thread - #16/INFO]: [Not Secure] <_NoSoyNuv> q no
-[16:10:33] [Server thread/INFO]: super_minipeka has made the advancement [Stone Age]
-[16:10:42] [Server thread/INFO]: super_minipeka has made the advancement [Getting an Upgrade]
-[16:10:51] [Server thread/INFO]: IloveStiven_ has made the advancement [Acquire Hardware]
+[16:17:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:17:16] [ServerMain/INFO]: Loaded 1290 recipes
+[16:17:16] [ServerMain/INFO]: Loaded 1399 advancements
+[16:17:17] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:17:17] [Server thread/INFO]: Loading properties
+[16:17:17] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[16:17:17] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:17:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:17:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:17:18] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[16:17:18] [Server thread/INFO]: Default game type: SURVIVAL
+[16:17:18] [Server thread/INFO]: Generating keypair
+[16:17:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:17:18] [Server thread/INFO]: Using epoll channel type
+[16:17:18] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:17:18] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[16:17:18] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[16:17:18] [Server thread/WARN]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[16:17:18] [Server thread/WARN]: Perhaps a server is already running on that port?
+[16:17:18] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.IllegalStateException: Failed to bind to port
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:286) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[16:17:19] [Server thread/ERROR]: This crash report has been saved to: /workspaces/donpollas/servidor_minecraft/crash-reports/crash-2025-08-09_16.17.19-server.txt
+[16:17:19] [Server thread/INFO]: Stopping server
+[16:17:19] [Server thread/INFO]: Saving players
+[16:17:19] [Server thread/INFO]: Saving worlds
+[16:17:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
