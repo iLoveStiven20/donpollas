@@ -1260,6 +1260,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-09 17:28:38 +0000",
+      "minecraft:skeleton": "2025-08-09 18:15:35 +0000",
       "minecraft:vindicator": "2025-08-09 17:27:46 +0000",
       "minecraft:zombified_piglin": "2025-08-09 17:02:09 +0000",
       "minecraft:spider": "2025-08-09 17:01:44 +0000",
@@ -1798,6 +1799,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-08-09 17:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-09 18:15:36 +0000"
     },
     "done": true
   },
