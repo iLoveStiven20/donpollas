@@ -548,8 +548,10 @@
       "minecraft:pillager": "2025-08-09 16:53:06 +0000",
       "minecraft:cave_spider": "2025-08-09 16:38:04 +0000",
       "minecraft:skeleton": "2025-08-09 15:59:32 +0000",
+      "minecraft:vindicator": "2025-08-09 17:27:36 +0000",
       "minecraft:spider": "2025-08-09 16:44:55 +0000",
-      "minecraft:zombie": "2025-08-09 16:16:45 +0000"
+      "minecraft:zombie": "2025-08-09 16:16:45 +0000",
+      "minecraft:ravager": "2025-08-09 17:29:43 +0000"
     },
     "done": false
   },
@@ -1525,6 +1527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-09 17:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-08-09 17:18:16 +0000"
@@ -1537,9 +1545,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-09 17:27:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-09 17:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-09 17:26:47 +0000"
     },
     "done": true
   },
@@ -1561,9 +1581,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-09 17:29:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-09 17:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-09 17:30:19 +0000"
     },
     "done": true
   },
