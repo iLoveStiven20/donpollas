@@ -515,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-08-11 22:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-08-11 21:56:55 +0000"
@@ -705,12 +711,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-08-11 22:17:24 +0000",
+      "minecraft:flower_forest": "2025-08-11 22:20:09 +0000",
       "minecraft:snowy_slopes": "2025-08-11 21:53:53 +0000",
       "minecraft:beach": "2025-08-11 21:42:54 +0000",
       "minecraft:forest": "2025-08-11 21:42:42 +0000",
-      "minecraft:ocean": "2025-08-11 22:07:31 +0000",
+      "minecraft:taiga": "2025-08-11 22:18:15 +0000",
       "minecraft:river": "2025-08-11 21:44:52 +0000",
+      "minecraft:stony_shore": "2025-08-11 22:26:27 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-11 22:17:24 +0000",
+      "minecraft:ocean": "2025-08-11 22:07:31 +0000",
+      "minecraft:sunflower_plains": "2025-08-11 22:20:44 +0000",
       "minecraft:meadow": "2025-08-11 21:52:49 +0000",
       "minecraft:birch_forest": "2025-08-11 22:12:09 +0000",
       "minecraft:windswept_savanna": "2025-08-11 21:44:46 +0000",
