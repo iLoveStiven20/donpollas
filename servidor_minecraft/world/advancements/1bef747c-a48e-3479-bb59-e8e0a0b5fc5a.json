@@ -7,11 +7,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-08-11 17:13:09 +0000",
       "minecraft:beach": "2025-08-11 16:56:25 +0000",
       "minecraft:forest": "2025-08-11 16:50:38 +0000",
+      "minecraft:taiga": "2025-08-11 17:11:46 +0000",
       "minecraft:cherry_grove": "2025-08-11 17:05:22 +0000",
       "minecraft:river": "2025-08-11 16:56:20 +0000",
       "minecraft:meadow": "2025-08-11 17:03:55 +0000",
+      "minecraft:birch_forest": "2025-08-11 17:14:20 +0000",
       "minecraft:windswept_savanna": "2025-08-11 16:57:24 +0000",
       "minecraft:plains": "2025-08-11 17:01:01 +0000"
     },
@@ -355,14 +358,28 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-11 17:07:17 +0000",
       "chicken": "2025-08-11 16:57:28 +0000",
-      "cooked_mutton": "2025-08-11 17:02:24 +0000"
+      "cooked_mutton": "2025-08-11 17:02:24 +0000",
+      "porkchop": "2025-08-11 17:05:58 +0000"
     },
     "done": false
   },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-08-11 16:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-11 17:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-11 17:14:23 +0000"
     },
     "done": true
   },
@@ -396,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-11 17:14:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-08-11 17:01:38 +0000"
@@ -411,6 +434,18 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-08-11 17:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-11 17:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-11 17:14:23 +0000"
     },
     "done": true
   },
