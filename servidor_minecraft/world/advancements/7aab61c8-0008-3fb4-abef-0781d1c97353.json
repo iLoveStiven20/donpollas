@@ -634,6 +634,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-08-11 18:37:55 +0000",
       "cooked_chicken": "2025-08-11 17:15:05 +0000",
       "cooked_mutton": "2025-08-11 16:59:29 +0000",
       "cooked_beef": "2025-08-11 17:24:15 +0000"
@@ -1646,6 +1647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-11 18:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-08-11 18:29:43 +0000"
@@ -1655,6 +1662,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-08-11 18:29:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-11 18:36:50 +0000"
     },
     "done": true
   },

@@ -285,3 +285,10 @@ java.util.ConcurrentModificationException: null
 [18:25:53] [User Authenticator #9/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
 [18:25:55] [Server thread/INFO]: IFrom_t8 joined the game
 [18:25:55] [Server thread/INFO]: IFrom_t8[/127.141.254.15:39383] logged in with entity id 40638 at ([world]574.7309967908783, 110.0, -842.6733426172311)
+[18:36:21] [Async Chat Thread - #24/INFO]: [Not Secure] <icat1_1> IloveyouValeria salte
+[18:36:26] [Async Chat Thread - #24/INFO]: [Not Secure] <icat1_1> para que se haga de dia
+[18:36:50] [Server thread/INFO]: IFrom_t8 has made the advancement [What a Deal!]
+[18:37:01] [Server thread/INFO]: icat1_1 issued server command: /msg IloveStiven_ ./kick IloveYouValeria
+[18:37:41] [Server thread/INFO]: IloveyouValeria lost connection: Disconnected
+[18:37:41] [Server thread/INFO]: IloveyouValeria left the game
+[18:38:29] [Server thread/INFO]: IFrom_t8 was slain by Iron Golem
