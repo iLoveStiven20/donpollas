@@ -1,2 +1,149 @@
-[00:00:58] [Server thread/INFO]: IloveStiven_ lost connection: Disconnected
-[00:00:58] [Server thread/INFO]: IloveStiven_ left the game
+[16:49:50] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[16:49:50] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[16:49:51] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:49:51] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[16:49:51] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - BlockLocker (1.13), SkinsRestorer (15.7.8)
+[16:49:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:49:56] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[16:49:56] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[16:49:57] [ServerMain/INFO]: No existing world data, creating new world
+[16:49:58] [ServerMain/INFO]: Loaded 1290 recipes
+[16:49:58] [ServerMain/INFO]: Loaded 1399 advancements
+[16:49:58] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:49:58] [Server thread/INFO]: Loading properties
+[16:49:58] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[16:49:59] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:49:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:49:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:50:00] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[16:50:00] [Server thread/INFO]: Default game type: SURVIVAL
+[16:50:00] [Server thread/INFO]: Generating keypair
+[16:50:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:50:00] [Server thread/INFO]: Using epoll channel type
+[16:50:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:50:00] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[16:50:01] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
+[16:50:01] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
+[16:50:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:50:01] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
+[16:50:03] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[16:50:04] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[16:50:04] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
+[16:50:04] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:50:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:50:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[16:50:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[16:50:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[16:50:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[16:50:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[16:50:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:50:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
+[16:50:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
+[16:50:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[16:50:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:50:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[16:50:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[16:50:11] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
+[16:50:11] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
+[16:50:11] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
+[16:50:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:50:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:50:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:50:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:50:11] [Server thread/INFO]: Preparing level "world"
+[16:50:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:50:26] [Server thread/INFO]: Time elapsed: 5974 ms
+[16:50:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:50:26] [Server thread/INFO]: Time elapsed: 225 ms
+[16:50:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:50:26] [Server thread/INFO]: Time elapsed: 140 ms
+[16:50:26] [Server thread/INFO]: [spark] Starting background profiler...
+[16:50:27] [Server thread/INFO]: Done preparing level "world" (15.473s)
+[16:50:27] [Server thread/INFO]: Running delayed init tasks
+[16:50:27] [Server thread/INFO]: Done (37.048s)! For help, type "help"
+[16:50:27] [Server thread/INFO]: Timings Reset
+[16:50:35] [User Authenticator #0/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
+[16:50:37] [Server thread/INFO]: IloveStiven_ joined the game
+[16:50:37] [Server thread/INFO]: IloveStiven_[/127.115.12.219:58715] logged in with entity id 59 at ([world]-5.5, 90.0, 39.5)
+[16:51:48] [Server thread/INFO]: IloveStiven_ has made the advancement [Stone Age]
+[16:52:30] [Server thread/INFO]: IloveStiven_ has made the advancement [Getting an Upgrade]
+[16:52:49] [User Authenticator #1/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
+[16:52:52] [Server thread/INFO]: IFrom_t8 joined the game
+[16:52:52] [Server thread/INFO]: IFrom_t8[/127.141.254.15:39365] logged in with entity id 701 at ([world]-0.5, 76.0, 28.5)
+[16:54:29] [User Authenticator #2/INFO]: UUID of player IloveyouValeria is e40ff014-5c9b-39d6-85fe-a54bb28167fc
+[16:54:30] [Server thread/INFO]: IloveyouValeria joined the game
+[16:54:30] [Server thread/INFO]: IloveyouValeria[/127.110.155.226:55093] logged in with entity id 1036 at ([world]5.5, 63.0, 33.5)
+[16:55:11] [User Authenticator #2/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
+[16:55:12] [Server thread/INFO]: icat1_1 joined the game
+[16:55:12] [Server thread/INFO]: icat1_1[/127.171.122.209:51913] logged in with entity id 1225 at ([world]-3.5, 72.0, 33.5)
+[16:55:22] [Server thread/INFO]: IFrom_t8 has made the advancement [Stone Age]
+[16:55:24] [Server thread/INFO]: icat1_1 issued server command: /skin set cat122112
+[16:56:00] [Server thread/INFO]: IFrom_t8 has made the advancement [Getting an Upgrade]
+[16:56:12] [Server thread/INFO]: IloveyouValeria has made the advancement [Stone Age]
+[16:56:22] [Server thread/INFO]: IloveyouValeria has made the advancement [Getting an Upgrade]
+[16:57:31] [Server thread/INFO]: icat1_1 has made the advancement [Getting an Upgrade]
+[16:57:34] [Server thread/INFO]: icat1_1 has made the advancement [Stone Age]
+[16:57:42] [Server thread/INFO]: Made IloveStiven_ a server operator
+[16:57:45] [Async Chat Thread - #1/INFO]: [Not Secure] <IloveStiven_> asd
+[16:57:48] [Server thread/INFO]: icat1_1 issued server command: /scoreboard objectives add vida health/scoreboard objectives setdisplay list vida
+[16:57:55] [Server thread/INFO]: IloveStiven_ issued server command: /scoreboard objectives add vida health
+[16:57:55] [Server thread/INFO]: [IloveStiven_: Created new objective [vida]]
+[16:58:09] [Server thread/INFO]: IloveStiven_ issued server command: /scoreboard objectives setdisplay list vida
+[16:58:09] [Server thread/INFO]: [IloveStiven_: Set display slot list to show objective vida]
+[16:58:11] [Server thread/INFO]: IloveStiven_ issued server command: /reload
+[16:58:11] [Server thread/INFO]: IloveStiven_: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[16:58:15] [Server thread/INFO]: IloveStiven_ issued server command: /reload confirm
+[16:58:15] [Server thread/INFO]: IloveStiven_: Please note that this command is not supported and may cause issues when using some plugins.
+[16:58:15] [Server thread/INFO]: IloveStiven_: If you encounter any issues please use the /stop command to restart your server.
+[16:58:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:58:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:58:15] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.13
+[16:58:15] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.8
+[16:58:16] [Server thread/INFO]: Loaded 1290 recipes
+[16:58:16] [Server thread/INFO]: Loaded 1399 advancements
+[16:58:16] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:58:16] [Paper Async Command Builder Thread Pool - 3/ERROR]: Caught previously unhandled exception :
+[16:58:16] [Paper Async Command Builder Thread Pool - 3/ERROR]: Paper Async Command Builder Thread Pool - 3
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[16:58:16] [Server thread/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[16:58:16] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - BlockLocker (1.13), SkinsRestorer (15.7.8)
+[16:58:16] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
+[16:58:16] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
+[16:58:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:58:16] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
+[16:58:17] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[16:58:18] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[16:58:19] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[16:58:19] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
+[16:58:19] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
+[16:58:19] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
+[16:58:19] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
+[16:58:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:58:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[16:58:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[16:58:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[16:58:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[16:58:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[16:58:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:58:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.7.8
+[16:58:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 8c78340
+[16:58:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
+[16:58:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:58:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[16:58:19] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[16:58:19] [Server thread/INFO]: IloveStiven_: Reload complete.
+[16:58:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3547ms or 70 ticks behind
+[16:58:19] [Server thread/INFO]: Timings Reset
+[16:58:19] [Server thread/WARN]: IloveStiven_ moved too quickly! 6.49152398779411,5.166109260938214,6.281896194124542
+[16:58:26] [Server thread/INFO]: IFrom_t8 has made the advancement [Ice Bucket Challenge]
+[16:58:46] [Server thread/INFO]: IFrom_t8 has made the advancement [Acquire Hardware]
