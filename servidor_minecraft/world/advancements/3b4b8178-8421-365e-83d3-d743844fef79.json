@@ -450,7 +450,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-11 17:07:03 +0000",
       "minecraft:spider": "2025-08-11 17:09:58 +0000",
-      "minecraft:zombie": "2025-08-11 17:03:36 +0000"
+      "minecraft:zombie": "2025-08-11 17:03:36 +0000",
+      "minecraft:creeper": "2025-08-11 18:55:08 +0000"
     },
     "done": false
   },
@@ -1378,6 +1379,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-11 18:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-11 18:07:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-08-11 18:20:37 +0000"
@@ -1387,12 +1400,6 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-08-11 18:20:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-08-11 18:07:30 +0000"
     },
     "done": true
   },
@@ -1411,12 +1418,6 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-08-11 18:20:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-08-11 18:07:53 +0000"
     },
     "done": true
   },

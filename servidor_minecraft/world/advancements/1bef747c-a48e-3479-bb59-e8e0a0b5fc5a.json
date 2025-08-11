@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-08-11 18:53:01 +0000",
       "minecraft:beach": "2025-08-11 16:56:25 +0000",
       "minecraft:forest": "2025-08-11 16:50:38 +0000",
       "minecraft:taiga": "2025-08-11 17:11:46 +0000",
@@ -551,9 +552,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-11 18:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-08-11 17:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-08-11 18:53:50 +0000"
     },
     "done": true
   },
@@ -813,6 +826,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-08-11 17:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-11 18:53:50 +0000"
     },
     "done": true
   },
