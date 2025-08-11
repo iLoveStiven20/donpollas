@@ -12,6 +12,8 @@
       "minecraft:deep_dark": "2025-08-11 17:21:10 +0000",
       "minecraft:cherry_grove": "2025-08-11 17:03:43 +0000",
       "minecraft:river": "2025-08-11 16:56:01 +0000",
+      "minecraft:meadow": "2025-08-11 17:46:43 +0000",
+      "minecraft:birch_forest": "2025-08-11 17:41:13 +0000",
       "minecraft:dripstone_caves": "2025-08-11 17:14:45 +0000",
       "minecraft:windswept_savanna": "2025-08-11 16:55:59 +0000",
       "minecraft:plains": "2025-08-11 16:59:55 +0000"
@@ -446,6 +448,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-11 17:41:39 +0000",
+      "mutton": "2025-08-11 17:49:21 +0000",
       "cooked_chicken": "2025-08-11 17:25:41 +0000",
       "cooked_mutton": "2025-08-11 17:07:54 +0000",
       "cooked_beef": "2025-08-11 17:00:51 +0000"
@@ -1202,6 +1206,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-08-11 17:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-11 17:47:20 +0000"
     },
     "done": true
   },
