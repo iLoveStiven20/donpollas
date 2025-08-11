@@ -412,3 +412,12 @@ java.util.ConcurrentModificationException: null
 [19:27:52] [Server thread/INFO]: icat1_1 has made the advancement [Ice Bucket Challenge]
 [19:36:13] [Server thread/INFO]: icat1_1 lost connection: Disconnected
 [19:36:13] [Server thread/INFO]: icat1_1 left the game
+[19:43:31] [User Authenticator #13/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
+[19:43:32] [Server thread/INFO]: icat1_1 joined the game
+[19:43:32] [Server thread/INFO]: icat1_1[/127.171.122.209:54367] logged in with entity id 55355 at ([world]570.4678130905742, 110.0, -850.9891021534783)
+[19:44:14] [Server thread/INFO]: icat1_1 lost connection: Disconnected
+[19:44:14] [Server thread/INFO]: icat1_1 left the game
+[19:44:15] [Server thread/INFO]: IFrom_t8 lost connection: Disconnected
+[19:44:15] [Server thread/INFO]: IFrom_t8 left the game
+[19:44:17] [Server thread/INFO]: IloveStiven_ lost connection: Disconnected
+[19:44:17] [Server thread/INFO]: IloveStiven_ left the game
