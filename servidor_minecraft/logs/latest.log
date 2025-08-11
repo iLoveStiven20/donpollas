@@ -249,3 +249,23 @@ java.util.ConcurrentModificationException: null
 [17:56:42] [Server thread/INFO]: Made IFrom_t8 a server operator
 [17:56:56] [Server thread/INFO]: Made IFrom_t8 no longer a server operator
 [17:58:37] [Server thread/INFO]: IloveStiven_ has made the advancement [What a Deal!]
+[18:03:12] [Server thread/INFO]: icat1_1 lost connection: Disconnected
+[18:03:12] [Server thread/INFO]: icat1_1 left the game
+[18:03:14] [Server thread/INFO]: IloveyouValeria lost connection: Disconnected
+[18:03:14] [Server thread/INFO]: IloveyouValeria left the game
+[18:03:20] [Server thread/INFO]: IFrom_t8 lost connection: Disconnected
+[18:03:20] [Server thread/INFO]: IFrom_t8 left the game
+[18:03:20] [User Authenticator #8/INFO]: UUID of player IloveyouValeria is e40ff014-5c9b-39d6-85fe-a54bb28167fc
+[18:03:21] [Server thread/INFO]: IloveyouValeria joined the game
+[18:03:21] [Server thread/INFO]: IloveyouValeria[/127.110.155.226:56923] logged in with entity id 35546 at ([world]660.0148504794539, 104.0, -942.1589391845545)
+[18:03:29] [User Authenticator #8/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
+[18:03:29] [Server thread/INFO]: icat1_1 joined the game
+[18:03:29] [Server thread/INFO]: icat1_1[/127.171.122.209:37529] logged in with entity id 35602 at ([world]575.090493906965, 113.0, -854.4204545584372)
+[18:06:15] [Async Chat Thread - #18/INFO]: [Not Secure] <IloveStiven_> icat1_1
+[18:06:17] [Async Chat Thread - #18/INFO]: [Not Secure] <icat1_1> k
+[18:06:24] [Async Chat Thread - #18/INFO]: [Not Secure] <IloveStiven_> y q les paso jsjsjsj
+[18:06:28] [Async Chat Thread - #18/INFO]: [Not Secure] <icat1_1> nada
+[18:06:29] [Async Chat Thread - #18/INFO]: [Not Secure] <IloveStiven_> tengo q ir a comer}
+[18:06:31] [Async Chat Thread - #18/INFO]: [Not Secure] <icat1_1> vava
+[18:06:39] [Async Chat Thread - #18/INFO]: [Not Secure] <IloveyouValeria> ok stiven
+[18:07:53] [Server thread/INFO]: icat1_1 has made the advancement [What a Deal!]
