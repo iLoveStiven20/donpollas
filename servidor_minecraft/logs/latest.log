@@ -292,3 +292,17 @@ java.util.ConcurrentModificationException: null
 [18:37:41] [Server thread/INFO]: IloveyouValeria lost connection: Disconnected
 [18:37:41] [Server thread/INFO]: IloveyouValeria left the game
 [18:38:29] [Server thread/INFO]: IFrom_t8 was slain by Iron Golem
+[18:43:53] [Server thread/INFO]: icat1_1 issued server command: /msg IloveStiven_ haciendose la paja sera
+[18:46:39] [Server thread/INFO]: icat1_1 lost connection: Disconnected
+[18:46:39] [Server thread/INFO]: icat1_1 left the game
+[18:46:41] [User Authenticator #10/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
+[18:46:42] [Server thread/INFO]: icat1_1 joined the game
+[18:46:42] [Server thread/INFO]: icat1_1[/127.171.122.209:36183] logged in with entity id 44370 at ([world]572.1585646714592, 110.9375, -835.6980610811202)
+[18:47:19] [User Authenticator #10/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
+[18:47:21] [Server thread/INFO]: nitr0_club joined the game
+[18:47:21] [Server thread/INFO]: nitr0_club[/127.162.51.206:38695] logged in with entity id 44463 at ([world]-6.5, 96.0, 39.5)
+[18:47:39] [Async Chat Thread - #28/INFO]: [Not Secure] <icat1_1> 577 112 -855
+[18:50:53] [Server thread/INFO]: icat1_1 issued server command: /msg IloveStiven_ se volvio homosexual con el golem
+[18:50:56] [Server thread/INFO]: IloveStiven_ issued server command: /msg icat1_1 xq te muteas?
+[18:51:04] [Server thread/INFO]: icat1_1 issued server command: /msg IloveStiven_ me estoy cagando de risa
+[18:51:10] [Server thread/INFO]: IloveStiven_ issued server command: /msg icat1_1 XDD
