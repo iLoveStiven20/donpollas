@@ -147,3 +147,27 @@ java.util.ConcurrentModificationException: null
 [16:58:19] [Server thread/WARN]: IloveStiven_ moved too quickly! 6.49152398779411,5.166109260938214,6.281896194124542
 [16:58:26] [Server thread/INFO]: IFrom_t8 has made the advancement [Ice Bucket Challenge]
 [16:58:46] [Server thread/INFO]: IFrom_t8 has made the advancement [Acquire Hardware]
+[16:59:54] [Async Chat Thread - #2/INFO]: [Not Secure] <icat1_1> deop
+[16:59:59] [Server thread/INFO]: IloveStiven_ issued server command: /deop IloveStiven_
+[16:59:59] [Server thread/INFO]: [IloveStiven_: Made IloveStiven_ no longer a server operator]
+[17:00:13] [Async Chat Thread - #2/INFO]: [Not Secure] <icat1_1> 353 66 57
+[17:02:14] [Server thread/INFO]: icat1_1 lost connection: Disconnected
+[17:02:14] [Server thread/INFO]: icat1_1 left the game
+[17:02:17] [User Authenticator #3/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
+[17:02:18] [Server thread/INFO]: icat1_1 joined the game
+[17:02:18] [Server thread/INFO]: icat1_1[/127.171.122.209:56343] logged in with entity id 3993 at ([world]410.223406451129, 69.0, -141.2255553298402)
+[17:02:20] [Server thread/INFO]: IloveyouValeria has made the advancement [Monster Hunter]
+[17:02:40] [Server thread/INFO]: IloveStiven_ has made the advancement [Sweet Dreams]
+[17:02:41] [Server thread/INFO]: icat1_1 has made the advancement [Sweet Dreams]
+[17:02:41] [Server thread/INFO]: IFrom_t8 has made the advancement [Sweet Dreams]
+[17:02:42] [Server thread/INFO]: IloveyouValeria has made the advancement [Sweet Dreams]
+[17:03:36] [Server thread/INFO]: icat1_1 has made the advancement [Monster Hunter]
+[17:05:01] [Server thread/INFO]: icat1_1 has made the advancement [Acquire Hardware]
+[17:05:35] [Server thread/INFO]: icat1_1 has made the advancement [Isn't It Iron Pick]
+[17:06:30] [Server thread/INFO]: icat1_1 has made the advancement [Diamonds!]
+[17:06:59] [Server thread/INFO]: icat1_1 has made the advancement [Not Today, Thank You]
+[17:08:11] [Server thread/INFO]: IFrom_t8 has made the advancement [Not Today, Thank You]
+[17:08:12] [Server thread/INFO]: IFrom_t8 has made the advancement [Monster Hunter]
+[17:08:33] [Paper Common Worker #0/ERROR]: Detected setBlock in a far chunk [58, -33], pos: BlockPos{x=943, y=22, z=-519}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[17:09:50] [Server thread/INFO]: IFrom_t8 has made the advancement [Isn't It Iron Pick]
+[17:09:54] [Server thread/INFO]: IloveyouValeria has made the advancement [Acquire Hardware]
