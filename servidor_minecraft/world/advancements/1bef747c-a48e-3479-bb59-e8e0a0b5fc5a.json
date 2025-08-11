@@ -921,7 +921,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-11 17:39:17 +0000",
-      "minecraft:zombie": "2025-08-11 17:38:16 +0000"
+      "minecraft:spider": "2025-08-11 21:40:07 +0000",
+      "minecraft:zombie": "2025-08-11 17:38:16 +0000",
+      "minecraft:creeper": "2025-08-11 21:40:32 +0000"
     },
     "done": false
   },
@@ -1153,15 +1155,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-11 19:27:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-08-11 19:33:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
+  "minecraft:recipes/combat/bow": {
     "criteria": {
-      "has_planks": "2025-08-11 19:27:33 +0000"
+      "has_string": "2025-08-11 21:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-11 21:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-11 21:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-11 21:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-11 21:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-11 21:40:37 +0000"
     },
     "done": true
   },
