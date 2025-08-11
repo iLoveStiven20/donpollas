@@ -340,3 +340,21 @@ java.util.ConcurrentModificationException: null
 [18:56:12] [Async Chat Thread - #33/INFO]: [Not Secure] <icat1_1> 577 112 -855
 [18:57:16] [Server thread/INFO]: nitr0_club has made the advancement [Stone Age]
 [19:01:09] [Server thread/INFO]: nitr0_club has made the advancement [Acquire Hardware]
+[19:05:13] [Server thread/INFO]: icat1_1 lost connection: Disconnected
+[19:05:13] [Server thread/INFO]: icat1_1 left the game
+[19:05:13] [Server thread/INFO]: Banned Nitro_club: Banned by an operator.
+[19:05:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/ban nitr0_club<--[HERE]
+[19:06:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/ban nitro_club<--[HERE]
+[19:06:29] [User Authenticator #12/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
+[19:06:29] [Server thread/INFO]: icat1_1 joined the game
+[19:06:29] [Server thread/INFO]: icat1_1[/127.171.122.209:49465] logged in with entity id 50567 at ([world]560.7920850355933, 111.0, -841.0720762069366)
+[19:06:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/ban Nitr0_club<--[HERE]
+[19:06:53] [Server thread/INFO]: IloveStiven_ issued server command: /msg icat1_1 banea a nitro
+[19:06:57] [Server thread/INFO]: nitr0_club lost connection: Disconnected
+[19:06:57] [Server thread/INFO]: nitr0_club left the game
+[19:07:10] [Async Chat Thread - #35/INFO]: [Not Secure] <IloveStiven_> icat1_1 call
+[19:07:11] [Async Chat Thread - #35/INFO]: [Not Secure] <icat1_1> IFrom_t8 mueveme de canal
+[19:09:57] [Server thread/INFO]: IFrom_t8 was slain by Iron Golem

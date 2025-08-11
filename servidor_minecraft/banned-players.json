@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "1614e833-f3fd-35b7-b996-5491bcdb5e48",
+    "name": "Nitro_club",
+    "created": "2025-08-11 19:05:13 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
