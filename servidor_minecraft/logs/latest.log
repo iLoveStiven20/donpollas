@@ -243,3 +243,9 @@ java.util.ConcurrentModificationException: null
 [17:50:08] [Server thread/INFO]: icat1_1[/127.171.122.209:51999] logged in with entity id 31497 at ([world]550.5008187304646, 101.0, -846.7546862811097)
 [17:50:09] [Server thread/INFO]: IFrom_t8 joined the game
 [17:50:09] [Server thread/INFO]: IFrom_t8[/127.141.254.15:46057] logged in with entity id 31496 at ([world]557.2849229951014, 111.0, -878.5666436879143)
+[17:52:32] [Server thread/INFO]: IFrom_t8 has made the advancement [Suit Up]
+[17:54:23] [Async Chat Thread - #16/INFO]: [Not Secure] <IloveStiven_> .-.
+[17:54:37] [Async Chat Thread - #16/INFO]: [Not Secure] <IloveStiven_> esperate gorda
+[17:56:42] [Server thread/INFO]: Made IFrom_t8 a server operator
+[17:56:56] [Server thread/INFO]: Made IFrom_t8 no longer a server operator
+[17:58:37] [Server thread/INFO]: IloveStiven_ has made the advancement [What a Deal!]
