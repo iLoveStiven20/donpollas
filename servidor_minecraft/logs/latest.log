@@ -99,3 +99,42 @@
 [18:04:22] [Server thread/INFO]: Villager Villager['Fletcher'/8551, uuid='c4e9f3ab-39ae-4516-b55d-d81d63669062', l='ServerLevel[world]', x=574.30, y=21.00, z=-856.70, cpos=[35, -54], tl=282059, v=true] died, message: 'Fletcher hit the ground too hard'
 [18:05:09] [Server thread/INFO]: icat1_1 lost connection: Disconnected
 [18:05:09] [Server thread/INFO]: icat1_1 left the game
+[18:06:39] [Server thread/INFO]: Banned IFrom_t8: Banned by an operator.
+[18:06:39] [Server thread/INFO]: IFrom_t8 lost connection: You are banned from this server
+[18:06:40] [Server thread/INFO]: IFrom_t8 left the game
+[18:06:44] [User Authenticator #3/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
+[18:06:45] [Server thread/INFO]: icat1_1 joined the game
+[18:06:45] [Server thread/INFO]: icat1_1[/127.198.31.200:52659] logged in with entity id 8915 at ([world]582.2221830370222, 35.0, -863.0491017943591)
+[18:06:48] [User Authenticator #3/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
+[18:06:48] [Server thread/INFO]: Disconnecting IFrom_t8 (/127.141.254.15:41613): You are banned from this server.
+Reason: Banned by an operator.
+[18:06:48] [Server thread/INFO]: IFrom_t8 (/127.141.254.15:41613) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[18:06:57] [User Authenticator #3/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
+[18:06:57] [Server thread/INFO]: Disconnecting IFrom_t8 (/127.141.254.15:56075): You are banned from this server.
+Reason: Banned by an operator.
+[18:06:57] [Server thread/INFO]: IFrom_t8 (/127.141.254.15:56075) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[18:07:04] [User Authenticator #3/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
+[18:07:04] [Server thread/INFO]: Disconnecting IFrom_t8 (/127.141.254.15:44529): You are banned from this server.
+Reason: Banned by an operator.
+[18:07:04] [Server thread/INFO]: IFrom_t8 (/127.141.254.15:44529) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[18:07:10] [Server thread/INFO]: Unbanned IFrom_t8
+[18:07:12] [User Authenticator #3/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
+[18:07:14] [Server thread/INFO]: IFrom_t8 joined the game
+[18:07:14] [Server thread/INFO]: IFrom_t8[/127.141.254.15:42521] logged in with entity id 8947 at ([world]508.2349496857679, -1.7508129212553185, -965.3294281655666)
+[18:11:27] [Async Chat Thread - #1/INFO]: [Not Secure] <icat1_1> '321k3oi12j3oij123131
+[18:11:28] [Async Chat Thread - #1/INFO]: [Not Secure] <icat1_1> '321k3oi12j3oij123131
+[18:11:28] [Async Chat Thread - #1/INFO]: [Not Secure] <icat1_1> '321k3oi12j3oij123131t
+[18:11:41] [Async Chat Thread - #1/INFO]: [Not Secure] <icat1_1> el que lea esto es putito
+[18:11:50] [Server thread/INFO]: IFrom_t8 was killed
+[18:11:50] [Server thread/INFO]: Killed IFrom_t8
+[18:13:44] [Server thread/INFO]: IFrom_t8 has made the advancement [Best Friends Forever]
+[18:13:46] [Async Chat Thread - #3/INFO]: [Not Secure] <icat1_1> Jessica
+[18:13:47] [Async Chat Thread - #3/INFO]: [Not Secure] <icat1_1> mentira
+[18:15:33] [Server thread/INFO]: icat1_1 lost connection: Disconnected
+[18:15:33] [Server thread/INFO]: icat1_1 left the game
+[18:15:34] [User Authenticator #4/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
+[18:15:35] [Server thread/INFO]: icat1_1 joined the game
+[18:15:35] [Server thread/INFO]: icat1_1[/127.198.31.200:56495] logged in with entity id 13362 at ([world]659.8448505446263, 86.0, -736.6879652280613)
