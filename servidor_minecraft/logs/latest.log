@@ -94,3 +94,8 @@
 [17:54:10] [Server thread/INFO]: IFrom_t8 was slain by Enderman
 [17:54:55] [Server thread/INFO]: IFrom_t8 has made the advancement [Take Aim]
 [17:55:07] [Server thread/INFO]: IloveStiven_ hit the ground too hard
+[18:02:09] [Server thread/INFO]: IFrom_t8 was shot by Skeleton
+[18:04:15] [Server thread/INFO]: IFrom_t8 issued server command: /spawn
+[18:04:22] [Server thread/INFO]: Villager Villager['Fletcher'/8551, uuid='c4e9f3ab-39ae-4516-b55d-d81d63669062', l='ServerLevel[world]', x=574.30, y=21.00, z=-856.70, cpos=[35, -54], tl=282059, v=true] died, message: 'Fletcher hit the ground too hard'
+[18:05:09] [Server thread/INFO]: icat1_1 lost connection: Disconnected
+[18:05:09] [Server thread/INFO]: icat1_1 left the game

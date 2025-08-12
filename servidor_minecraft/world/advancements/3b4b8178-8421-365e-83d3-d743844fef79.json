@@ -451,6 +451,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-11 17:07:03 +0000",
+      "minecraft:phantom": "2025-08-12 17:54:44 +0000",
+      "minecraft:enderman": "2025-08-12 17:56:32 +0000",
       "minecraft:spider": "2025-08-11 17:09:58 +0000",
       "minecraft:zombie": "2025-08-11 17:03:36 +0000",
       "minecraft:creeper": "2025-08-11 18:55:08 +0000",
@@ -1874,6 +1876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-12 17:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-12 17:50:32 +0000"
@@ -1937,6 +1945,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-08-12 17:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-08-12 17:52:17 +0000"
     },
     "done": true
   },
