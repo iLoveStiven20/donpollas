@@ -81,3 +81,16 @@
 [17:21:14] [Server thread/INFO]: IFrom_t8[/127.141.254.15:52749] logged in with entity id 1852 at ([world]785.6157326676461, 12.0, -446.30000001192093)
 [17:23:13] [Server thread/INFO]: Teleported IFrom_t8 to icat1_1
 [17:23:39] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:45:26] [User Authenticator #2/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
+[17:45:27] [Server thread/INFO]: IloveStiven_ joined the game
+[17:45:27] [Server thread/INFO]: IloveStiven_[/127.115.12.219:39669] logged in with entity id 5762 at ([world]570.4875000119209, 112.52525182832004, -842.3000000119209)
+[17:48:10] [Async Chat Thread - #0/INFO]: [Not Secure] <icat1_1> ./difficulty hard
+[17:48:17] [Server thread/INFO]: IFrom_t8 issued server command: /party invite
+[17:48:27] [Server thread/INFO]: Made IloveStiven_ a server operator
+[17:48:36] [Server thread/INFO]: IFrom_t8 issued server command: /msg babybara1 es team el imsonio
+[17:48:53] [Server thread/INFO]: IloveStiven_ issued server command: /difficulty hard
+[17:48:53] [Server thread/INFO]: [IloveStiven_: The difficulty has been set to Hard]
+[17:49:15] [Server thread/INFO]: Made IloveStiven_ no longer a server operator
+[17:54:10] [Server thread/INFO]: IFrom_t8 was slain by Enderman
+[17:54:55] [Server thread/INFO]: IFrom_t8 has made the advancement [Take Aim]
+[17:55:07] [Server thread/INFO]: IloveStiven_ hit the ground too hard
