@@ -742,6 +742,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-08-11 22:20:09 +0000",
+      "minecraft:savanna_plateau": "2025-08-11 22:41:22 +0000",
       "minecraft:snowy_slopes": "2025-08-11 21:53:53 +0000",
       "minecraft:beach": "2025-08-11 21:42:54 +0000",
       "minecraft:stony_peaks": "2025-08-11 22:32:02 +0000",

@@ -1,198 +1,71 @@
-[21:39:23] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[21:39:23] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[21:39:23] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:39:25] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[21:39:25] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - BlockLocker (1.13), ClickVillagers (1.4.1), SkinsRestorer (15.7.8)
-[21:39:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:39:32] [ServerMain/INFO]: Loaded 1290 recipes
-[21:39:32] [ServerMain/INFO]: Loaded 1399 advancements
-[21:39:33] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:39:33] [Server thread/INFO]: Loading properties
-[21:39:33] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[21:39:33] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:39:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:39:33] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:39:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[21:39:35] [Server thread/INFO]: Default game type: SURVIVAL
-[21:39:35] [Server thread/INFO]: Generating keypair
-[21:39:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:39:35] [Server thread/INFO]: Using epoll channel type
-[21:39:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:39:35] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[21:39:35] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
-[21:39:35] [Server thread/INFO]: [ClickVillagers] Loading server plugin ClickVillagers v1.4.1
-[21:39:35] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
-[21:39:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:39:35] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
-[21:39:37] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[21:39:38] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[21:39:38] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
-[21:39:38] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.7.9) is available! Downloading update...
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 356ms
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer (1).jar
-[21:39:39] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
-[21:39:45] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
-[21:39:45] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
-[21:39:45] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
-[21:39:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:39:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:39:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:39:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:39:45] [Server thread/INFO]: Preparing level "world"
-[21:39:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:39:47] [Server thread/INFO]: Time elapsed: 1387 ms
-[21:39:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:39:47] [Server thread/INFO]: Time elapsed: 294 ms
-[21:39:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:39:47] [Server thread/INFO]: Time elapsed: 228 ms
-[21:39:47] [Server thread/INFO]: [ClickVillagers] Enabling ClickVillagers v1.4.1
-[21:39:48] [Server thread/INFO]: [ClickVillagers] Checking for updates...
-[21:39:48] [Server thread/INFO]: [spark] Starting background profiler...
-[21:39:49] [Server thread/INFO]: Done preparing level "world" (3.722s)
-[21:39:49] [Server thread/INFO]: Running delayed init tasks
-[21:39:49] [Server thread/INFO]: Done (27.232s)! For help, type "help"
-[21:39:49] [Server thread/INFO]: Timings Reset
-[21:39:49] [Server thread/INFO]: IloveStiven_ (/127.115.12.219:43289) lost connection: Disconnected
-[21:39:49] [User Authenticator #0/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
-[21:39:54] [User Authenticator #0/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
-[21:39:55] [Server thread/INFO]: IloveStiven_ joined the game
-[21:39:55] [Server thread/INFO]: IloveStiven_[/127.115.12.219:57927] logged in with entity id 21 at ([world]568.4330726631465, 112.0, -851.8638351152725)
-[21:40:08] [User Authenticator #0/INFO]: UUID of player iMathias1 is eb11368f-8c9b-358d-a35e-8a47f5499f8a
-[21:40:09] [Server thread/INFO]: iMathias1 joined the game
-[21:40:09] [Server thread/INFO]: iMathias1[/127.171.122.209:49471] logged in with entity id 278 at ([world]2.5, 78.0, 42.5)
-[21:40:09] [User Authenticator #0/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
-[21:40:13] [Server thread/INFO]: IFrom_t8 joined the game
-[21:40:13] [Server thread/INFO]: IFrom_t8[/127.141.254.15:42763] logged in with entity id 287 at ([world]587.1459841787076, 112.1212968405392, -870.7413209977153)
-[21:40:13] [Server thread/INFO]: iMathias1 lost connection: Disconnected
-[21:40:13] [Server thread/INFO]: iMathias1 left the game
-[21:41:16] [User Authenticator #1/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
-[21:41:17] [Server thread/INFO]: icat1_1 joined the game
-[21:41:17] [Server thread/INFO]: icat1_1[/127.171.122.209:33741] logged in with entity id 524 at ([world]581.589032638165, 110.0, -844.8992507243325)
-[21:42:36] [User Authenticator #2/INFO]: UUID of player _NoSoyNuv is ec9a1b92-50cf-3b05-b9b9-88e1ddbce82d
-[21:42:42] [Server thread/INFO]: _NoSoyNuv joined the game
-[21:42:42] [Server thread/INFO]: _NoSoyNuv[/127.178.55.0:53131] logged in with entity id 703 at ([world]-0.5, 76.0, 30.5)
-[21:42:45] [Async Chat Thread - #1/INFO]: [Not Secure] <_NoSoyNuv> asd
-[21:42:49] [Async Chat Thread - #1/INFO]: [Not Secure] <icat1_1> 569 114 -845
-[21:42:52] [Async Chat Thread - #1/INFO]: [Not Secure] <_NoSoyNuv> juetuputamadre icat1_1
-[21:42:57] [Async Chat Thread - #1/INFO]: [Not Secure] <icat1_1> ?
-[21:42:59] [Async Chat Thread - #1/INFO]: [Not Secure] <_NoSoyNuv> reiniciaste 2 veces el survi
-[21:43:04] [Async Chat Thread - #1/INFO]: [Not Secure] <_NoSoyNuv> ya tenia cosas en el anterior
-[21:43:06] [Async Chat Thread - #1/INFO]: [Not Secure] <_NoSoyNuv> jueputa
-[21:43:15] [Async Chat Thread - #1/INFO]: [Not Secure] <_NoSoyNuv> los papeo ahora
-[21:43:27] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> velda
-[21:43:55] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> ey ustedes no estudian o q
-[21:44:08] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> nambe
-[21:44:33] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> _NoSoyNuv consiguio el logro diamantes
-[21:44:40] [Async Chat Thread - #0/INFO]: [Not Secure] <icat1_1> y de mamar pene tambien
-[21:44:46] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> no soy IloveStiven_ w
-[21:44:46] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveStiven_> _NoSoyNuv /elimina la cuenta
-[21:44:57] [Async Chat Thread - #0/INFO]: [Not Secure] <_NoSoyNuv> fans
-[21:45:00] [Async Chat Thread - #1/INFO]: [Not Secure] <IFrom_t8> _NoSoyNuv consiguio el logro de mamar penes
-[21:45:12] [Async Chat Thread - #1/INFO]: [Not Secure] <_NoSoyNuv> tu logro fav w
-[21:45:26] [Async Chat Thread - #1/INFO]: [Not Secure] <_NoSoyNuv> vale xray no ?
-[21:45:40] [Server thread/INFO]: _NoSoyNuv has made the advancement [Stone Age]
-[21:46:07] [Server thread/INFO]: _NoSoyNuv has made the advancement [Getting an Upgrade]
-[21:46:33] [Async Chat Thread - #2/INFO]: [Not Secure] <_NoSoyNuv> piedra lisa
-[21:47:20] [Async Chat Thread - #2/INFO]: [Not Secure] <_NoSoyNuv> 5 de hierro y 2 de madera IFrom_t8
-[21:47:40] [Async Chat Thread - #2/INFO]: [Not Secure] <_NoSoyNuv> yo no c lo q es pasarse mc p
-[21:47:52] [Async Chat Thread - #2/INFO]: [Not Secure] <_NoSoyNuv> nono
-[21:47:56] [Async Chat Thread - #2/INFO]: [Not Secure] <_NoSoyNuv> si tengo como 2 survis XD
-[21:49:26] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:49:50] [Async Chat Thread - #4/INFO]: [Not Secure] <_NoSoyNuv> cual eran las cords XD
-[21:49:58] [Async Chat Thread - #4/INFO]: [Not Secure] <icat1_1> -10003 70 4324-
-[21:50:03] [Async Chat Thread - #4/INFO]: [Not Secure] <icat1_1> 569 114 -845
-[21:50:05] [Async Chat Thread - #4/INFO]: [Not Secure] <_NoSoyNuv> toy en positivo w
-[21:51:12] [Server thread/INFO]: icat1_1 has made the advancement [Minecraft: Trial(s) Edition]
-[21:51:48] [Async Chat Thread - #6/INFO]: [Not Secure] <_NoSoyNuv> yo taba en una trial hasta q alguien reinicio el sv
-[21:52:11] [Async Chat Thread - #6/INFO]: [Not Secure] <_NoSoyNuv> -290 54 356
-[21:52:35] [Async Chat Thread - #6/INFO]: [Not Secure] <_NoSoyNuv> apoco es de noche
-[21:52:57] [Async Chat Thread - #6/INFO]: [Not Secure] <_NoSoyNuv> vision nocturna
-[21:53:04] [Server thread/INFO]: icat1_1 has made the advancement [Under Lock and Key]
-[21:53:10] [Async Chat Thread - #6/INFO]: [Not Secure] <_NoSoyNuv> tu al minimo
-[21:53:19] [Async Chat Thread - #6/INFO]: [Not Secure] <icat1_1> 786 0 -437
-[21:54:23] [Async Chat Thread - #8/INFO]: [Not Secure] <_NoSoyNuv> ey IFrom_t8 serio no sabes usar cords ? XD
-[21:54:42] [Async Chat Thread - #8/INFO]: [Not Secure] <_NoSoyNuv> no le digo nd q yo demore 3 meses en esos
-[21:54:43] [Async Chat Thread - #8/INFO]: [Not Secure] <_NoSoyNuv> no le digo nd q yo demore 3 meses en eso
-[21:54:55] [Server thread/INFO]: IFrom_t8 issued server command: /spawn
-[21:55:06] [Server thread/INFO]: _NoSoyNuv has made the advancement [Monster Hunter]
-[21:55:18] [Async Chat Thread - #8/INFO]: [Not Secure] <_NoSoyNuv> yo toy en mina
-[21:55:43] [Async Chat Thread - #8/INFO]: [Not Secure] <icat1_1> 786 0 -437
-[21:56:03] [Async Chat Thread - #8/INFO]: [Not Secure] <icat1_1> por eso papa se fue
-[21:56:51] [Server thread/INFO]: icat1_1 lost connection: Disconnected
-[21:56:51] [Server thread/INFO]: icat1_1 left the game
-[21:56:55] [Server thread/INFO]: _NoSoyNuv has made the advancement [Sweet Dreams]
-[21:57:10] [User Authenticator #3/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
-[21:57:11] [Server thread/INFO]: icat1_1 joined the game
-[21:57:11] [Server thread/INFO]: icat1_1[/127.171.122.209:41411] logged in with entity id 8096 at ([world]788.3000000119209, -19.0, -424.13832567702593)
-[21:57:53] [Async Chat Thread - #10/INFO]: [Not Secure] <icat1_1> eso es porque eres gay
-[21:57:57] [Async Chat Thread - #10/INFO]: [Not Secure] <icat1_1> espantaste el veneno
-[21:57:58] [Async Chat Thread - #10/INFO]: [Not Secure] <icat1_1> mentira
-[21:58:30] [Async Chat Thread - #10/INFO]: [Not Secure] <icat1_1> ?
-[21:58:34] [Async Chat Thread - #10/INFO]: [Not Secure] <icat1_1> las trials son abajo de tierra
-[22:00:25] [Async Chat Thread - #12/INFO]: [Not Secure] <_NoSoyNuv> cat
-[22:00:29] [Async Chat Thread - #12/INFO]: [Not Secure] <icat1_1> k
-[22:00:30] [Async Chat Thread - #12/INFO]: [Not Secure] <_NoSoyNuv> so
-[22:00:37] [Server thread/INFO]: _NoSoyNuv has made the advancement [Acquire Hardware]
-[22:00:47] [Server thread/INFO]: IloveStiven_ has made the advancement [Minecraft: Trial(s) Edition]
-[22:00:50] [Server thread/INFO]: IFrom_t8 has made the advancement [Minecraft: Trial(s) Edition]
-[22:01:02] [Server thread/INFO]: IFrom_t8 lost connection: Disconnected
-[22:01:02] [Server thread/INFO]: IFrom_t8 left the game
-[22:01:10] [Async Chat Thread - #12/INFO]: [Not Secure] <icat1_1> ya esta aqui
-[22:01:26] [Async Chat Thread - #12/INFO]: [Not Secure] <_NoSoyNuv> yo toy en mina
-[22:01:31] [Async Chat Thread - #12/INFO]: [Not Secure] <icat1_1> dejalo que se equipe
-[22:01:47] [Server thread/INFO]: _NoSoyNuv has made the advancement [Isn't It Iron Pick]
-[22:02:21] [Server thread/INFO]: IloveStiven_ has made the advancement [Under Lock and Key]
-[22:02:40] [Async Chat Thread - #14/INFO]: [Not Secure] <icat1_1> vamonos
-[22:02:46] [Async Chat Thread - #14/INFO]: [Not Secure] <icat1_1> eso es todo
-[22:02:49] [Async Chat Thread - #14/INFO]: [Not Secure] <icat1_1> me lotee lo demas
-[22:03:51] [Server thread/INFO]: icat1_1 lost connection: Disconnected
-[22:03:51] [Server thread/INFO]: icat1_1 left the game
-[22:03:53] [Async Chat Thread - #16/INFO]: [Not Secure] <_NoSoyNuv> XDD
-[22:04:11] [Async Chat Thread - #16/INFO]: [Not Secure] <_NoSoyNuv> no c
-[22:05:45] [Server thread/INFO]: _NoSoyNuv tried to swim in lava
-[22:05:51] [Async Chat Thread - #18/INFO]: [Not Secure] <_NoSoyNuv> nambe
-[22:06:00] [Async Chat Thread - #18/INFO]: [Not Secure] <_NoSoyNuv> picar abajo es mala opcion
-[22:06:07] [Async Chat Thread - #18/INFO]: [Not Secure] <_NoSoyNuv> picar abajo es mala opcion
-[22:06:33] [Server thread/INFO]: _NoSoyNuv tried to swim in lava
-[22:06:41] [Async Chat Thread - #18/INFO]: [Not Secure] <_NoSoyNuv> apareci mal
-[22:07:02] [Async Chat Thread - #18/INFO]: [Not Secure] <_NoSoyNuv> puse una cama y apareci adentro de bloques
-[22:07:19] [Async Chat Thread - #18/INFO]: [Not Secure] <_NoSoyNuv> no
-[22:07:48] [Async Chat Thread - #18/INFO]: [Not Secure] <_NoSoyNuv> no tengo cama
-[22:07:52] [Async Chat Thread - #18/INFO]: [Not Secure] <_NoSoyNuv> no
-[22:08:01] [Async Chat Thread - #19/INFO]: [Not Secure] <_NoSoyNuv> no
-[22:08:43] [Async Chat Thread - #19/INFO]: [Not Secure] <_NoSoyNuv> gays
-[22:08:54] [Async Chat Thread - #19/INFO]: [Not Secure] <_NoSoyNuv> se lotearon el portal
-[22:09:05] [Async Chat Thread - #19/INFO]: [Not Secure] <_NoSoyNuv> no
-[22:09:10] [Async Chat Thread - #19/INFO]: [Not Secure] <_NoSoyNuv> pq no c
-[22:10:56] [Async Chat Thread - #20/INFO]: [Not Secure] <_NoSoyNuv> duerme w
-[22:11:09] [Async Chat Thread - #20/INFO]: [Not Secure] <_NoSoyNuv> duerme w
-[22:11:09] [Async Chat Thread - #20/INFO]: [Not Secure] <_NoSoyNuv> pq no c
-[22:11:09] [Async Chat Thread - #20/INFO]: [Not Secure] <_NoSoyNuv> no
-[22:11:10] [Async Chat Thread - #20/INFO]: [Not Secure] <_NoSoyNuv> se lotearon el portal
-[22:11:13] [Async Chat Thread - #20/INFO]: [Not Secure] <_NoSoyNuv> se lotearon el portal
-[22:12:53] [Server thread/INFO]: _NoSoyNuv was killed by Witch using magic
-[22:13:13] [Async Chat Thread - #22/INFO]: [Not Secure] <_NoSoyNuv> se suicido la bruja pa matarme XD
-[22:13:27] [Async Chat Thread - #22/INFO]: [Not Secure] <_NoSoyNuv> mal ahi
-[22:13:35] [Async Chat Thread - #22/INFO]: [Not Secure] <_NoSoyNuv> sisas
-[22:13:39] [Async Chat Thread - #22/INFO]: [Not Secure] <_NoSoyNuv> no
-[22:13:45] [Server thread/INFO]: IloveStiven_ lost connection: Disconnected
-[22:13:45] [Server thread/INFO]: IloveStiven_ left the game
-[22:16:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
-wey<--[HERE]
-[22:17:03] [Server thread/INFO]: No player was found
-[22:37:00] [Server thread/INFO]: _NoSoyNuv has made the advancement [Suit Up]
+[04:05:52] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[04:05:52] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[04:05:53] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:05:53] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer (1).jar'...
+[04:05:56] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer (1).jar' in 2833ms.
+[04:05:56] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[04:05:56] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - BlockLocker (1.13), ClickVillagers (1.4.1), SkinsRestorer (15.7.9)
+[04:06:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:06:02] [ServerMain/INFO]: Loaded 1290 recipes
+[04:06:02] [ServerMain/INFO]: Loaded 1399 advancements
+[04:06:02] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[04:06:02] [Server thread/INFO]: Loading properties
+[04:06:02] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[04:06:03] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:06:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:06:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:06:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[04:06:04] [Server thread/INFO]: Default game type: SURVIVAL
+[04:06:04] [Server thread/INFO]: Generating keypair
+[04:06:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:06:04] [Server thread/INFO]: Using epoll channel type
+[04:06:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:06:04] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[04:06:04] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.9
+[04:06:04] [Server thread/INFO]: [ClickVillagers] Loading server plugin ClickVillagers v1.4.1
+[04:06:04] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
+[04:06:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:06:04] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.9
+[04:06:07] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[04:06:08] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[04:06:08] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
+[04:06:08] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[04:06:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:06:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:06:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[04:06:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[04:06:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[04:06:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:06:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:06:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.9
+[04:06:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: eb4ae0c
+[04:06:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[04:06:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:06:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[04:06:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[04:06:15] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
+[04:06:15] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
+[04:06:15] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
+[04:06:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:06:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:06:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:06:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:06:16] [Server thread/INFO]: Preparing level "world"
+[04:06:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:06:17] [Server thread/INFO]: Time elapsed: 1276 ms
+[04:06:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:06:18] [Server thread/INFO]: Time elapsed: 286 ms
+[04:06:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:06:18] [Server thread/INFO]: Time elapsed: 172 ms
+[04:06:18] [Server thread/INFO]: [ClickVillagers] Enabling ClickVillagers v1.4.1
+[04:06:18] [Server thread/INFO]: [ClickVillagers] Checking for updates...
+[04:06:18] [Server thread/INFO]: [spark] Starting background profiler...
+[04:06:19] [Server thread/INFO]: Done preparing level "world" (3.698s)
+[04:06:19] [Server thread/INFO]: Running delayed init tasks
+[04:06:19] [Server thread/INFO]: Done (27.808s)! For help, type "help"
+[04:06:19] [Server thread/INFO]: Timings Reset
+[04:06:28] [User Authenticator #0/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
+[04:06:29] [Server thread/INFO]: IloveStiven_ joined the game
+[04:06:30] [Server thread/INFO]: IloveStiven_[/127.115.12.219:33857] logged in with entity id 22 at ([world]581.0493699553675, 114.0, -841.5465863244831)
+[04:12:04] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
