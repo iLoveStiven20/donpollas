@@ -637,6 +637,7 @@
       "bread": "2025-08-11 18:37:55 +0000",
       "cooked_chicken": "2025-08-11 17:15:05 +0000",
       "rotten_flesh": "2025-08-12 17:55:32 +0000",
+      "suspicious_stew": "2025-08-12 18:25:45 +0000",
       "cooked_mutton": "2025-08-11 16:59:29 +0000",
       "cooked_beef": "2025-08-11 17:24:15 +0000",
       "pumpkin_pie": "2025-08-11 21:43:37 +0000"
@@ -2141,6 +2142,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-08-12 18:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-12 18:13:44 +0000"
     },
     "done": true
   },

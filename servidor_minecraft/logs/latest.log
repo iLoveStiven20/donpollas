@@ -138,3 +138,42 @@ Reason: Banned by an operator.
 [18:15:34] [User Authenticator #4/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
 [18:15:35] [Server thread/INFO]: icat1_1 joined the game
 [18:15:35] [Server thread/INFO]: icat1_1[/127.198.31.200:56495] logged in with entity id 13362 at ([world]659.8448505446263, 86.0, -736.6879652280613)
+[18:16:58] [Async Chat Thread - #5/INFO]: [Not Secure] <icat1_1> 31u2i3128u - 3128938129312
+[18:17:00] [Server thread/INFO]: IloveStiven_ fell from a high place
+[18:19:25] [Server thread/INFO]: icat1_1 lost connection: Disconnected
+[18:19:25] [Server thread/INFO]: icat1_1 left the game
+[18:19:31] [User Authenticator #5/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
+[18:19:32] [Server thread/INFO]: icat1_1 joined the game
+[18:19:32] [Server thread/INFO]: icat1_1[/127.198.31.200:38831] logged in with entity id 14658 at ([world]577.3250740832218, 110.5, -848.638338623187)
+[18:19:41] [Server thread/INFO]: Made IloveStiven_ a server operator
+[18:20:19] [Server thread/INFO]: IloveStiven_ issued server command: /tp 298 150 -1025
+[18:20:19] [Server thread/INFO]: [IloveStiven_: Teleported IloveStiven_ to 298.500000, 150.000000, -1024.500000]
+[18:21:10] [Server thread/INFO]: icat1_1 issued server command: /msg IFrom_t8 si llega stiven nos desconectamos
+[18:21:21] [Server thread/INFO]: IFrom_t8 issued server command: /r oka
+[18:21:21] [Server thread/INFO]: IloveStiven_ issued server command: /tp 500 70 -750
+[18:21:21] [Server thread/INFO]: [IloveStiven_: Teleported IloveStiven_ to 500.500000, 70.000000, -749.500000]
+[18:22:22] [Async Chat Thread - #9/INFO]: [Not Secure] <icat1_1> 570 114 -841
+[18:22:35] [Server thread/INFO]: icat1_1 issued server command: /msg IFrom_t8 si llega stiven nos desconectamos
+[18:22:48] [Server thread/INFO]: icat1_1 lost connection: Disconnected
+[18:22:48] [Server thread/INFO]: icat1_1 left the game
+[18:22:49] [Server thread/INFO]: IFrom_t8 lost connection: Disconnected
+[18:22:49] [Server thread/INFO]: IFrom_t8 left the game
+[18:22:58] [User Authenticator #6/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
+[18:22:59] [Server thread/INFO]: icat1_1 joined the game
+[18:22:59] [Server thread/INFO]: icat1_1[/127.198.31.200:57751] logged in with entity id 15493 at ([world]573.5548204542665, 111.01249995231629, -848.7876366954675)
+[18:23:06] [User Authenticator #6/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
+[18:23:08] [Server thread/WARN]: nitro (vehicle of icat1_1) moved wrongly! 0.2724792128778972
+[18:23:08] [Server thread/WARN]: nitro (vehicle of icat1_1) moved wrongly! 0.31999261646876676
+[18:23:08] [Server thread/INFO]: IFrom_t8 joined the game
+[18:23:08] [Server thread/INFO]: IFrom_t8[/127.141.254.15:51029] logged in with entity id 15503 at ([world]569.7302046323186, 114.5, -842.540193173191)
+[18:24:12] [Server thread/INFO]: IloveStiven_ lost connection: Disconnected
+[18:24:12] [Server thread/INFO]: IloveStiven_ left the game
+[18:26:00] [Server thread/INFO]: icat1_1 lost connection: Disconnected
+[18:26:00] [Server thread/INFO]: icat1_1 left the game
+[18:26:02] [User Authenticator #7/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
+[18:26:02] [Server thread/INFO]: icat1_1 joined the game
+[18:26:02] [Server thread/INFO]: icat1_1[/127.198.31.200:46017] logged in with entity id 15822 at ([world]583.841812198644, 112.0, -852.2663515178702)
+[18:26:08] [Server thread/INFO]: icat1_1 lost connection: Disconnected
+[18:26:08] [Server thread/INFO]: icat1_1 left the game
+[18:26:21] [Server thread/INFO]: IFrom_t8 lost connection: Disconnected
+[18:26:21] [Server thread/INFO]: IFrom_t8 left the game
