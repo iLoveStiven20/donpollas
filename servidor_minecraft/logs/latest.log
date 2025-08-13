@@ -519,3 +519,13 @@ java.util.ConcurrentModificationException: null
 [19:27:50] [Server thread/INFO]: IloveStiven_ issued server command: /pv 1
 [19:27:50] [Async Chat Thread - #16/INFO]: [Not Secure] <icat1_1> ./geimmod crative
 [19:28:18] [Async Chat Thread - #16/INFO]: [Not Secure] <Septxmbrz> ./modo de juego volar
+[19:30:27] [Async Chat Thread - #18/INFO]: [Not Secure] <icat1_1> ./creativo
+[19:30:33] [Async Chat Thread - #18/INFO]: [Not Secure] <icat1_1> ./dar pan a todos
+[19:31:11] [Async Chat Thread - #18/INFO]: [Not Secure] <icat1_1> ./dar kit mewto a todos
+[19:31:20] [Async Chat Thread - #19/INFO]: [Not Secure] <Septxmbrz> ./mucho pene para stiven
+[19:36:52] [Server thread/INFO]: IFrom_t8 lost connection: Timed out
+[19:36:52] [Server thread/INFO]: IFrom_t8 left the game
+[19:37:59] [Async Chat Thread - #21/INFO]: [Not Secure] <IloveStiven_> PONGAN CARTELES
+[19:39:02] [User Authenticator #14/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
+[19:39:04] [Server thread/INFO]: IFrom_t8 joined the game
+[19:39:04] [Server thread/INFO]: IFrom_t8[/127.141.254.15:57145] logged in with entity id 30466 at ([world]591.3000000119209, 110.0, -874.6624195282573)
