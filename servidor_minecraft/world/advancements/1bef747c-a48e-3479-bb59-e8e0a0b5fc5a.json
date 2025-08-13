@@ -1891,5 +1891,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-13 18:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-13 18:24:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
