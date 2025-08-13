@@ -6,5 +6,13 @@
     "source": "Server",
     "expires": "forever",
     "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "5ad884cf-77c5-3c6f-ab82-2c1063df43f2",
+    "name": "nitr0_club",
+    "created": "2025-08-13 17:45:53 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
   }
 ]
