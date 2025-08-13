@@ -472,3 +472,25 @@ java.util.ConcurrentModificationException: null
 [18:27:44] [Server thread/INFO]: Septxmbrz was blown up by Creeper
 [18:27:49] [Async Chat Thread - #12/INFO]: [Not Secure] <Septxmbrz> as
 [18:27:54] [Server thread/INFO]: An entity is required to run this command here
+[18:28:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Septxmbrz> as
+[18:28:45] [Server thread/INFO]: An entity is required to run this command here
+[18:28:48] [Server thread/INFO]: Septxmbrz was shot by Skeleton
+[18:28:56] [Server thread/INFO]: An entity is required to run this command here
+[18:29:04] [Server thread/INFO]: An entity is required to run this command here
+[18:29:10] [Server thread/INFO]: Made IloveStiven_ a server operator
+[18:29:16] [Server thread/INFO]: IloveStiven_ issued server command: /tp Septxmbrz
+[18:29:16] [Server thread/INFO]: [IloveStiven_: Teleported IloveStiven_ to Septxmbrz]
+[18:29:26] [Server thread/INFO]: IloveStiven_ issued server command: /tp icat1_1
+[18:29:26] [Server thread/INFO]: [IloveStiven_: Teleported IloveStiven_ to icat1_1]
+[18:29:37] [Server thread/INFO]: IloveStiven_ issued server command: /tps Septxmbrz
+[18:29:52] [Async Chat Thread - #14/INFO]: [Not Secure] <icat1_1> ./tp septxmbrz icat1_1
+[18:29:53] [Server thread/INFO]: IloveStiven_ issued server command: /tpa
+[18:30:03] [Server thread/INFO]: IloveStiven_ issued server command: /tp Septxmbrz 1 ~
+[18:30:06] [Server thread/INFO]: IloveStiven_ issued server command: /tp Septxmbrz icat1_1
+[18:30:06] [Server thread/INFO]: [IloveStiven_: Teleported Septxmbrz to icat1_1]
+[18:30:31] [Server thread/INFO]: Septxmbrz has made the advancement [Acquire Hardware]
+[18:31:05] [Server thread/INFO]: Septxmbrz has made the advancement [Suit Up]
+[18:31:51] [Server thread/INFO]: Septxmbrz has made the advancement [Isn't It Iron Pick]
+[18:35:46] [Server thread/INFO]: IloveStiven_ lost connection: Disconnected
+[18:35:46] [Server thread/INFO]: IloveStiven_ left the game
+[18:36:12] [Server thread/INFO]: Septxmbrz has made the advancement [Stone Age]
