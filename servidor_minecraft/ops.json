@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "3b4b8178-8421-365e-83d3-d743844fef79",
+    "name": "icat1_1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "1bef747c-a48e-3479-bb59-e8e0a0b5fc5a",
     "name": "IloveStiven_",
     "level": 4,
