@@ -529,3 +529,10 @@ java.util.ConcurrentModificationException: null
 [19:39:02] [User Authenticator #14/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
 [19:39:04] [Server thread/INFO]: IFrom_t8 joined the game
 [19:39:04] [Server thread/INFO]: IFrom_t8[/127.141.254.15:57145] logged in with entity id 30466 at ([world]591.3000000119209, 110.0, -874.6624195282573)
+[19:42:05] [Server thread/INFO]: icat1_1 lost connection: Timed out
+[19:42:05] [Server thread/INFO]: icat1_1 left the game
+[19:47:14] [Server thread/INFO]: Septxmbrz lost connection: Disconnected
+[19:47:14] [Server thread/INFO]: Septxmbrz left the game
+[19:47:33] [User Authenticator #15/INFO]: UUID of player Septxmbrz is 1d758a91-a3f3-3b42-ba12-800b9c84367c
+[19:47:35] [Server thread/INFO]: Septxmbrz joined the game
+[19:47:35] [Server thread/INFO]: Septxmbrz[/127.80.7.170:55571] logged in with entity id 32173 at ([world]566.8222403869905, 110.0, -885.1258548988812)
