@@ -13,6 +13,7 @@
       "minecraft:river": "2025-08-11 16:59:37 +0000",
       "minecraft:grove": "2025-08-11 17:25:01 +0000",
       "minecraft:meadow": "2025-08-11 17:23:53 +0000",
+      "minecraft:birch_forest": "2025-08-13 18:11:03 +0000",
       "minecraft:dripstone_caves": "2025-08-11 17:17:10 +0000",
       "minecraft:windswept_savanna": "2025-08-11 16:57:24 +0000",
       "minecraft:plains": "2025-08-11 16:59:49 +0000"
@@ -2089,6 +2090,18 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-08-12 18:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-08-13 18:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-13 18:11:04 +0000"
     },
     "done": true
   },
