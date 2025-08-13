@@ -498,3 +498,7 @@ java.util.ConcurrentModificationException: null
 [18:47:19] [Server thread/INFO]: Made icat1_1 a server operator
 [18:47:59] [Server thread/INFO]: IFrom_t8 lost connection: Disconnected
 [18:47:59] [Server thread/INFO]: IFrom_t8 left the game
+[18:48:19] [Server thread/INFO]: Septxmbrz has made the advancement [Sweet Dreams]
+[18:51:15] [Server thread/INFO]: Septxmbrz issued server command: /spawn
+[18:52:22] [Server thread/INFO]: Septxmbrz has made the advancement [What a Deal!]
+[18:57:27] [Server thread/INFO]: Septxmbrz has made the advancement [Cover Me with Diamonds]
