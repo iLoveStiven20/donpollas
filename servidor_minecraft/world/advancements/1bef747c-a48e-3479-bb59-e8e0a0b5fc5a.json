@@ -929,6 +929,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-11 17:39:17 +0000",
       "minecraft:enderman": "2025-08-11 21:57:34 +0000",
+      "minecraft:witch": "2025-08-13 18:01:28 +0000",
       "minecraft:spider": "2025-08-11 21:40:07 +0000",
       "minecraft:zombie": "2025-08-11 17:38:16 +0000",
       "minecraft:creeper": "2025-08-11 21:40:32 +0000",
@@ -1812,15 +1813,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-13 17:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-13 17:59:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-08-13 17:45:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-13 17:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-13 17:59:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-08-13 17:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-13 18:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-13 17:59:25 +0000"
     },
     "done": true
   },
@@ -1833,6 +1870,18 @@
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-08-13 17:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-13 17:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-13 18:01:29 +0000"
     },
     "done": true
   },

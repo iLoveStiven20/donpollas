@@ -488,6 +488,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-11 17:12:15 +0000",
       "minecraft:enderman": "2025-08-11 18:20:31 +0000",
+      "minecraft:witch": "2025-08-13 18:03:15 +0000",
       "minecraft:spider": "2025-08-11 17:08:44 +0000",
       "minecraft:zombie": "2025-08-11 17:02:26 +0000",
       "minecraft:creeper": "2025-08-11 17:02:20 +0000"
@@ -1274,12 +1275,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-08-11 18:21:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-11 18:04:44 +0000"
@@ -1310,12 +1305,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-08-11 18:21:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-08-11 18:04:44 +0000"
@@ -1331,6 +1320,18 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-08-11 18:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-11 18:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-11 18:21:46 +0000"
     },
     "done": true
   },
