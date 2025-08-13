@@ -536,3 +536,9 @@ java.util.ConcurrentModificationException: null
 [19:47:33] [User Authenticator #15/INFO]: UUID of player Septxmbrz is 1d758a91-a3f3-3b42-ba12-800b9c84367c
 [19:47:35] [Server thread/INFO]: Septxmbrz joined the game
 [19:47:35] [Server thread/INFO]: Septxmbrz[/127.80.7.170:55571] logged in with entity id 32173 at ([world]566.8222403869905, 110.0, -885.1258548988812)
+[19:52:49] [Server thread/INFO]: Septxmbrz lost connection: Disconnected
+[19:52:49] [Server thread/INFO]: Septxmbrz left the game
+[19:54:11] [Server thread/INFO]: IloveStiven_ lost connection: Disconnected
+[19:54:11] [Server thread/INFO]: IloveStiven_ left the game
+[19:55:56] [Server thread/INFO]: IFrom_t8 lost connection: Disconnected
+[19:55:56] [Server thread/INFO]: IFrom_t8 left the game
