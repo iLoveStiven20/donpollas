@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-08-13 19:00:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 18:30:31 +0000"
@@ -161,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-08-13 19:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-08-13 18:36:12 +0000"
@@ -176,6 +188,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-08-13 18:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-13 18:57:52 +0000"
     },
     "done": true
   },
@@ -275,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-08-13 19:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-13 18:31:30 +0000"
@@ -284,6 +308,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-08-13 18:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-13 19:01:22 +0000"
     },
     "done": true
   },
@@ -332,6 +362,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-08-13 18:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-08-13 18:57:27 +0000"
     },
     "done": true
   },
@@ -520,9 +556,12 @@
     "criteria": {
       "minecraft:beach": "2025-08-13 18:25:39 +0000",
       "minecraft:forest": "2025-08-13 18:25:44 +0000",
+      "minecraft:cherry_grove": "2025-08-13 19:04:31 +0000",
+      "minecraft:river": "2025-08-13 19:03:48 +0000",
       "minecraft:grove": "2025-08-13 18:44:22 +0000",
       "minecraft:meadow": "2025-08-13 18:30:07 +0000",
-      "minecraft:birch_forest": "2025-08-13 18:43:43 +0000"
+      "minecraft:birch_forest": "2025-08-13 18:43:43 +0000",
+      "minecraft:plains": "2025-08-13 19:02:24 +0000"
     },
     "done": false
   },
@@ -709,6 +748,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-08-13 18:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-13 18:57:52 +0000"
     },
     "done": true
   },

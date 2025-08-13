@@ -502,3 +502,13 @@ java.util.ConcurrentModificationException: null
 [18:51:15] [Server thread/INFO]: Septxmbrz issued server command: /spawn
 [18:52:22] [Server thread/INFO]: Septxmbrz has made the advancement [What a Deal!]
 [18:57:27] [Server thread/INFO]: Septxmbrz has made the advancement [Cover Me with Diamonds]
+[19:00:37] [Server thread/INFO]: Septxmbrz issued server command: /pv 1
+[19:02:52] [User Authenticator #12/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
+[19:02:53] [Server thread/INFO]: IloveStiven_ joined the game
+[19:02:53] [Server thread/INFO]: IloveStiven_[/127.115.12.219:34881] logged in with entity id 18418 at ([world]582.383034979038, 114.5, -852.0597452321502)
+[19:06:45] [Server thread/INFO]: icat1_1 issued server command: /deop icat1_1
+[19:06:45] [Server thread/INFO]: [icat1_1: Made icat1_1 no longer a server operator]
+[19:07:13] [User Authenticator #13/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
+[19:07:15] [Server thread/INFO]: IFrom_t8 joined the game
+[19:07:15] [Server thread/INFO]: IFrom_t8[/127.141.254.15:41155] logged in with entity id 20110 at ([world]570.4875000119209, 111.0, -842.3000000119209)
+[19:08:06] [Server thread/INFO]: Septxmbrz has made the advancement [Not Today, Thank You]
