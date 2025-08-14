@@ -114,3 +114,17 @@
 [14:26:08] [Server thread/INFO]: iT8xz has made the advancement [Monster Hunter]
 [14:27:42] [Server thread/INFO]: iT8xz has made the advancement [Stone Age]
 [14:27:43] [Server thread/INFO]: iT8xz was blown up by Creeper
+[14:39:01] [Async Chat Thread - #1/INFO]: [Not Secure] <icat1_1> ./banear jugador imathias1
+[14:39:03] [Server thread/INFO]: IloveStiven_ issued server command: /kill icat1_1
+[14:39:03] [Server thread/INFO]: icat1_1 was killed
+[14:39:03] [Server thread/INFO]: [IloveStiven_: Killed icat1_1]
+[14:39:05] [Server thread/INFO]: icat1_1 lost connection: Disconnected
+[14:39:05] [Server thread/INFO]: icat1_1 left the game
+[14:39:09] [User Authenticator #6/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
+[14:39:10] [Server thread/INFO]: icat1_1 joined the game
+[14:39:10] [Server thread/INFO]: icat1_1[/127.198.31.200:43191] logged in with entity id 6427 at ([world]571.5357358806364, 111.5625, -851.669766734857)
+[14:40:24] [Async Chat Thread - #3/INFO]: [Not Secure] <IloveStiven_> D:
+[14:41:39] [Server thread/INFO]: IloveStiven_ issued server command: /gamemode creative
+[14:41:39] [Server thread/INFO]: [IloveStiven_: Set own game mode to Creative Mode]
+[14:42:03] [Server thread/INFO]: IloveStiven_ issued server command: /gamemode survival
+[14:42:03] [Server thread/INFO]: [IloveStiven_: Set own game mode to Survival Mode]
