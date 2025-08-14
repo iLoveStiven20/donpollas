@@ -1,544 +1,101 @@
-[17:37:06] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[17:37:06] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[17:37:06] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:37:07] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[17:37:07] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - BlockLocker (1.13), ClickVillagers (1.4.1), SkinsRestorer (15.7.9)
-[17:37:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:37:13] [ServerMain/INFO]: Loaded 1290 recipes
-[17:37:13] [ServerMain/INFO]: Loaded 1399 advancements
-[17:37:13] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[17:37:13] [Server thread/INFO]: Loading properties
-[17:37:13] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[17:37:14] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:37:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:37:14] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:37:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[17:37:15] [Server thread/INFO]: Default game type: SURVIVAL
-[17:37:15] [Server thread/INFO]: Generating keypair
-[17:37:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:37:15] [Server thread/INFO]: Using epoll channel type
-[17:37:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:37:15] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[17:37:16] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.9
-[17:37:16] [Server thread/INFO]: [ClickVillagers] Loading server plugin ClickVillagers v1.4.1
-[17:37:16] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
-[17:37:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:37:16] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.9
-[17:37:18] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[17:37:19] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[17:37:19] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
-[17:37:19] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[17:37:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:37:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:37:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[17:37:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[17:37:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[17:37:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:37:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:37:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.9
-[17:37:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: eb4ae0c
-[17:37:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[17:37:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:37:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[17:37:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[17:37:25] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
-[17:37:25] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
-[17:37:25] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
-[17:37:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:37:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:37:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:37:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:37:25] [Server thread/INFO]: Preparing level "world"
-[17:37:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:37:27] [Server thread/INFO]: Time elapsed: 1132 ms
-[17:37:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:37:27] [Server thread/INFO]: Time elapsed: 219 ms
-[17:37:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:37:27] [Server thread/INFO]: Time elapsed: 178 ms
-[17:37:27] [Server thread/INFO]: [ClickVillagers] Enabling ClickVillagers v1.4.1
-[17:37:28] [Server thread/INFO]: [ClickVillagers] Checking for updates...
-[17:37:28] [Server thread/INFO]: [spark] Starting background profiler...
-[17:37:28] [Server thread/INFO]: Done preparing level "world" (2.750s)
-[17:37:28] [Server thread/INFO]: Running delayed init tasks
-[17:37:28] [Server thread/INFO]: Done (22.947s)! For help, type "help"
-[17:37:28] [Server thread/INFO]: Timings Reset
-[17:37:28] [Server thread/INFO]: IloveStiven_ (/127.115.12.219:59291) lost connection: Disconnected
-[17:37:29] [User Authenticator #0/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
-[17:37:34] [User Authenticator #0/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
-[17:37:35] [Server thread/INFO]: IloveStiven_ joined the game
-[17:37:36] [Server thread/INFO]: IloveStiven_[/127.115.12.219:39005] logged in with entity id 21 at ([world]577.021803152405, 110.5, -850.6981144530729)
-[17:38:53] [Server thread/INFO]: IloveStiven_ was shot by Skeleton
-[17:40:33] [Server thread/INFO]: IloveStiven_ has made the advancement [Cover Me with Diamonds]
-[17:40:46] [User Authenticator #1/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
-[17:40:48] [Server thread/INFO]: IFrom_t8 joined the game
-[17:40:48] [Server thread/INFO]: IFrom_t8[/127.141.254.15:60463] logged in with entity id 768 at ([world]583.3959031343995, 114.0, -851.3504989109874)
-[17:40:55] [Server thread/INFO]: IloveStiven_ issued server command: /kill IFrom_t8
-[17:40:55] [Server thread/INFO]: IFrom_t8 was killed
-[17:40:55] [Server thread/INFO]: [IloveStiven_: Killed IFrom_t8]
-[17:41:12] [Server thread/INFO]: IloveStiven_ issued server command: /deop IloveStiven_
-[17:41:12] [Server thread/INFO]: [IloveStiven_: Made IloveStiven_ no longer a server operator]
-[17:45:05] [User Authenticator #2/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[17:45:07] [Server thread/INFO]: nitr0_club joined the game
-[17:45:07] [Server thread/INFO]: nitr0_club[/127.162.51.206:38201] logged in with entity id 1395 at ([world]571.5186503422368, 111.0, -842.8796868778097)
-[17:45:09] [Server thread/INFO]: IloveStiven_ has made the advancement [Isn't It Iron Pick]
-[17:45:46] [Server thread/INFO]: Nothing changed. The player is already banned
-[17:45:53] [Server thread/INFO]: Banned nitr0_club: Banned by an operator.
-[17:45:53] [Server thread/INFO]: nitr0_club lost connection: You are banned from this server
-[17:45:53] [Server thread/INFO]: nitr0_club left the game
-[17:46:08] [User Authenticator #3/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[17:46:08] [Server thread/INFO]: Disconnecting nitr0_club (/127.162.51.206:42743): You are banned from this server.
-Reason: Banned by an operator.
-[17:46:09] [Server thread/INFO]: nitr0_club (/127.162.51.206:42743) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[17:46:23] [User Authenticator #3/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[17:46:23] [Server thread/INFO]: Disconnecting nitr0_club (/127.162.51.206:37027): You are banned from this server.
-Reason: Banned by an operator.
-[17:46:23] [Server thread/INFO]: nitr0_club (/127.162.51.206:37027) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[17:46:28] [User Authenticator #3/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[17:46:28] [Server thread/INFO]: Disconnecting nitr0_club (/127.162.51.206:54617): You are banned from this server.
-Reason: Banned by an operator.
-[17:46:28] [Server thread/INFO]: nitr0_club (/127.162.51.206:54617) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[17:46:36] [User Authenticator #3/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[17:46:36] [Server thread/INFO]: Disconnecting nitr0_club (/127.162.51.206:39591): You are banned from this server.
-Reason: Banned by an operator.
-[17:46:36] [Server thread/INFO]: nitr0_club (/127.162.51.206:39591) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[17:46:55] [User Authenticator #3/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[17:46:56] [Server thread/INFO]: Disconnecting nitr0_club (/127.162.51.206:37105): You are banned from this server.
-Reason: Banned by an operator.
-[17:46:56] [Server thread/INFO]: nitr0_club (/127.162.51.206:37105) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[17:47:14] [User Authenticator #3/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[17:47:14] [Server thread/INFO]: Disconnecting nitr0_club (/127.162.51.206:44753): You are banned from this server.
-Reason: Banned by an operator.
-[17:47:14] [Server thread/INFO]: nitr0_club (/127.162.51.206:44753) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[17:47:44] [User Authenticator #3/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[17:47:44] [Server thread/INFO]: Disconnecting nitr0_club (/127.162.51.206:40393): You are banned from this server.
-Reason: Banned by an operator.
-[17:47:44] [Server thread/INFO]: nitr0_club (/127.162.51.206:40393) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[17:47:51] [User Authenticator #3/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[17:47:51] [Server thread/INFO]: Disconnecting nitr0_club (/127.162.51.206:51055): You are banned from this server.
-Reason: Banned by an operator.
-[17:47:51] [Server thread/INFO]: nitr0_club (/127.162.51.206:51055) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[17:48:01] [User Authenticator #3/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[17:48:01] [Server thread/INFO]: Disconnecting nitr0_club (/127.162.51.206:53767): You are banned from this server.
-Reason: Banned by an operator.
-[17:48:01] [Server thread/INFO]: nitr0_club (/127.162.51.206:53767) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[17:48:48] [User Authenticator #3/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[17:48:48] [Server thread/INFO]: Disconnecting nitr0_club (/127.162.51.206:55109): You are banned from this server.
-Reason: Banned by an operator.
-[17:48:48] [Server thread/INFO]: nitr0_club (/127.162.51.206:55109) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[17:48:55] [User Authenticator #3/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[17:48:55] [Server thread/INFO]: Disconnecting nitr0_club (/127.162.51.206:53529): You are banned from this server.
-Reason: Banned by an operator.
-[17:48:55] [Server thread/INFO]: nitr0_club (/127.162.51.206:53529) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[17:49:18] [User Authenticator #3/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[17:49:18] [Server thread/INFO]: Disconnecting nitr0_club (/127.162.51.206:54911): You are banned from this server.
-Reason: Banned by an operator.
-[17:49:18] [Server thread/INFO]: nitr0_club (/127.162.51.206:54911) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[17:49:58] [User Authenticator #3/INFO]: UUID of player nitr0_club is 5ad884cf-77c5-3c6f-ab82-2c1063df43f2
-[17:49:58] [Server thread/INFO]: Disconnecting nitr0_club (/127.162.51.206:52981): You are banned from this server.
-Reason: Banned by an operator.
-[17:49:58] [Server thread/INFO]: nitr0_club (/127.162.51.206:52981) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[17:50:03] [Server thread/INFO]: IloveStiven_ issued server command: /desband
-[17:50:12] [Server thread/INFO]: IloveStiven_ was slain by Iron Golem
-[17:50:24] [Server thread/INFO]: IFrom_t8 lost connection: Disconnected
-[17:50:24] [Server thread/INFO]: IFrom_t8 left the game
-[17:50:32] [User Authenticator #3/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
-[17:50:34] [Server thread/INFO]: IFrom_t8 joined the game
-[17:50:34] [Server thread/INFO]: IFrom_t8[/127.141.254.15:57659] logged in with entity id 2117 at ([world]582.7702669656085, 111.0, -860.6299842531666)
-[17:52:07] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:58:37] [User Authenticator #4/INFO]: UUID of player IloveyouValeria is e40ff014-5c9b-39d6-85fe-a54bb28167fc
-[17:58:38] [Server thread/INFO]: IloveyouValeria joined the game
-[17:58:38] [Server thread/INFO]: IloveyouValeria[/127.110.155.226:51957] logged in with entity id 4011 at ([world]659.5, 104.0, -932.5)
-[17:59:24] [Server thread/INFO]: Named entity Donkey['nitro'/33, uuid='b0221215-b4c4-4f1f-9192-a2b00f3dd642', l='ServerLevel[world]', x=661.39, y=105.00, z=-912.20, cpos=[41, -58], tl=340276, v=true] died: nitro was slain by IloveyouValeria
-[17:59:36] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> eliminen eso
-[18:00:36] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:00:50] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:00:51] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:00:51] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:00:52] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:00:52] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:00:53] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:00:54] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:00:54] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:01:21] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:01:23] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> w
-[18:01:24] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:02:05] [Server thread/INFO]: Made IloveStiven_ a server operator
-[18:02:17] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> banealo
-[18:02:51] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:02:52] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:02:53] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:02:53] [Server thread/INFO]: IloveStiven_ issued server command: /pvp
-[18:02:55] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:02:55] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:02:56] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:02:57] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:02:57] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:02:58] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:02:59] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:02:59] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> prende pvp stiven
-[18:03:07] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> dame cosola
-[18:03:10] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> consola
-[18:03:15] [Server thread/INFO]: IFrom_t8 lost connection: Disconnected
-[18:03:15] [Server thread/INFO]: IFrom_t8 left the game
-[18:03:19] [User Authenticator #5/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
-[18:03:21] [Server thread/INFO]: IFrom_t8 joined the game
-[18:03:21] [Server thread/INFO]: IFrom_t8[/127.141.254.15:56337] logged in with entity id 4737 at ([world]661.5527282217564, 105.0, -917.0194771997458)
-[18:03:23] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> ./pvp on
-[18:03:27] [Server thread/INFO]: IloveStiven_ issued server command: /pvp on
-[18:03:34] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> dame consola
-[18:03:42] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> dame la comsola
-[18:03:48] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> tenasmite
-[18:03:51] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> e
-[18:03:51] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> e
-[18:03:56] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> transmitwe
-[18:03:58] [Server thread/INFO]: IloveStiven_ issued server command: /tenasmite
-[18:04:04] [Async Chat Thread - #0/INFO]: [Not Secure] <IloveyouValeria> transmitwe stiven
-[18:04:32] [Server thread/INFO]: IloveStiven_ issued server command: /kill IFrom_t8
-[18:04:32] [Server thread/INFO]: IFrom_t8 was killed
-[18:04:32] [Server thread/INFO]: [IloveStiven_: Killed IFrom_t8]
-[18:04:36] [Server thread/INFO]: IloveyouValeria has made the advancement [Cover Me with Diamonds]
-[18:04:45] [Server thread/INFO]: IloveStiven_ issued server command: /kill IloveyouValeria
-[18:04:45] [Server thread/INFO]: IloveyouValeria was killed
-[18:04:45] [Server thread/INFO]: [IloveStiven_: Killed IloveyouValeria]
-[18:04:46] [Server thread/INFO]: IloveStiven_ issued server command: /kill IFrom_t8
-[18:04:46] [Server thread/INFO]: IFrom_t8 was killed
-[18:04:46] [Server thread/INFO]: [IloveStiven_: Killed IFrom_t8]
-[18:05:15] [Async Chat Thread - #2/INFO]: [Not Secure] <IloveyouValeria> no vengansa
-[18:05:22] [Server thread/INFO]: IloveStiven_ issued server command: /gamemode creative
-[18:05:22] [Server thread/INFO]: [IloveStiven_: Set own game mode to Creative Mode]
-[18:05:24] [Async Chat Thread - #2/INFO]: [Not Secure] <IloveyouValeria> vengansa
-[18:05:43] [Async Chat Thread - #2/INFO]: [Not Secure] <IloveyouValeria> rompele los cofras a t8 stiven
-[18:05:46] [Server thread/INFO]: IloveStiven_ issued server command: /gamemode survival
-[18:05:46] [Server thread/INFO]: [IloveStiven_: Set own game mode to Survival Mode]
-[18:06:28] [Async Chat Thread - #2/INFO]: [Not Secure] <IloveyouValeria> tu eres la basura
-[18:06:30] [Server thread/INFO]: IFrom_t8 was shot by Skeleton
-[18:06:42] [Async Chat Thread - #2/INFO]: [Not Secure] <IloveyouValeria> tu meme
-[18:06:45] [Server thread/INFO]: IFrom_t8 was blown up by Creeper
-[18:07:10] [User Authenticator #6/INFO]: UUID of player iMathias1 is eb11368f-8c9b-358d-a35e-8a47f5499f8a
-[18:07:11] [Server thread/INFO]: iMathias1 joined the game
-[18:07:11] [Server thread/INFO]: iMathias1[/127.198.31.200:43589] logged in with entity id 5374 at ([world]2.512979102545715, 79.0, 43.23062299646353)
-[18:07:13] [Async Chat Thread - #2/INFO]: [Not Secure] <IloveyouValeria> bro meme tu imaginate comprar una cuenta prm por un juego de cubitos
-[18:07:16] [Server thread/INFO]: iMathias1 lost connection: Disconnected
-[18:07:16] [Server thread/INFO]: iMathias1 left the game
-[18:08:22] [User Authenticator #7/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
-[18:08:23] [Server thread/INFO]: icat1_1 joined the game
-[18:08:23] [Server thread/INFO]: icat1_1[/127.198.31.200:45121] logged in with entity id 5709 at ([world]580.0630382229855, 114.99520087700593, -847.2921580151612)
-[18:08:34] [Server thread/INFO]: IloveStiven_ issued server command: /kill IFrom_t8
-[18:08:34] [Server thread/INFO]: IFrom_t8 was killed
-[18:08:34] [Server thread/INFO]: [IloveStiven_: Killed IFrom_t8]
-[18:08:39] [Async Chat Thread - #4/INFO]: [Not Secure] <IloveyouValeria> cat es una rata ese tipo
-[18:08:45] [Async Chat Thread - #4/INFO]: [Not Secure] <IloveyouValeria> toma t8
-[18:08:50] [Async Chat Thread - #4/INFO]: [Not Secure] <IloveyouValeria> tu cosas lloron
-[18:08:53] [Async Chat Thread - #4/INFO]: [Not Secure] <IloveyouValeria> y t8
-[18:08:56] [Server thread/INFO]: IloveStiven_ issued server command: /kill IloveyouValeria
-[18:08:56] [Server thread/INFO]: IloveyouValeria was killed
-[18:08:56] [Server thread/INFO]: [IloveStiven_: Killed IloveyouValeria]
-[18:09:23] [Async Chat Thread - #4/INFO]: [Not Secure] <IloveyouValeria> ptende pvp
-[18:09:53] [Async Chat Thread - #4/INFO]: [Not Secure] <IloveyouValeria> como ago la privasidad
-[18:10:06] [Server thread/INFO]: IloveStiven_ issued server command: /reload
-[18:10:06] [Server thread/INFO]: IloveStiven_: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[18:10:09] [Server thread/INFO]: IloveStiven_ issued server command: /reload confirm
-[18:10:09] [Server thread/INFO]: IloveStiven_: Please note that this command is not supported and may cause issues when using some plugins.
-[18:10:09] [Server thread/INFO]: IloveStiven_: If you encounter any issues please use the /stop command to restart your server.
-[18:10:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:10:09] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:10:10] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.13
-[18:10:10] [Server thread/INFO]: [ClickVillagers] Disabling ClickVillagers v1.4.1
-[18:10:10] [Server thread/WARN]: [ClickVillagers] Failed to create backup file plugins/ClickVillagers/data/partners.json.old: plugins/ClickVillagers/data/partners.json
-[18:10:10] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.9
-[18:10:10] [Server thread/INFO]: Loaded 1290 recipes
-[18:10:10] [Server thread/INFO]: Loaded 1399 advancements
-[18:10:10] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:10:10] [Paper Async Command Builder Thread Pool - 11/ERROR]: Caught previously unhandled exception :
-[18:10:10] [Paper Async Command Builder Thread Pool - 11/ERROR]: Paper Async Command Builder Thread Pool - 11
-java.util.ConcurrentModificationException: null
-	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
-	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
-	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[18:10:10] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/breaktogether.jar'...
-[18:10:11] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/breaktogether.jar' in 1183ms.
-[18:10:11] [Server thread/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[18:10:11] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (4):
- - BlockLocker (1.13), BreakTogether (1.6), ClickVillagers (1.4.1), SkinsRestorer (15.7.9)
-[18:10:12] [Server thread/INFO]: [BreakTogether] Loading server plugin BreakTogether v1.6
-[18:10:12] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.9
-[18:10:12] [Server thread/INFO]: [ClickVillagers] Loading server plugin ClickVillagers v1.4.1
-[18:10:12] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
-[18:10:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:10:12] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.9
-[18:10:12] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[18:10:13] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[18:10:14] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[18:10:14] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
-[18:10:14] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
-[18:10:14] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
-[18:10:14] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
-[18:10:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:10:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[18:10:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[18:10:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[18:10:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[18:10:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[18:10:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:10:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.7.9
-[18:10:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: eb4ae0c
-[18:10:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[18:10:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:10:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[18:10:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[18:10:15] [Server thread/INFO]: [BreakTogether] Enabling BreakTogether v1.6
-[18:10:15] [Server thread/INFO]: BreakTogether 1.6  has been enabled!
-[18:10:15] [Server thread/INFO]: [ClickVillagers] Enabling ClickVillagers v1.4.1
-[18:10:15] [Server thread/INFO]: [ClickVillagers] Checking for updates...
-[18:10:15] [Server thread/INFO]: IloveStiven_: Reload complete.
-[18:10:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5489ms or 109 ticks behind
-[18:10:15] [Server thread/INFO]: Timings Reset
-[18:10:15] [Server thread/WARN]: IFrom_t8 moved too quickly! -12.444155980298547,-0.2247629905309907,-14.368195953111808
-[18:10:15] [Server thread/WARN]: icat1_1 moved too quickly! 9.536455530201124,-6.249187078744683,-14.71770386987805
-[18:10:15] [Server thread/WARN]: IloveStiven_ moved too quickly! 9.18739870020363,2.024424088213692,-7.058674309251728
-[18:10:19] [Server thread/INFO]: icat1_1 issued server command: /plugins
-[18:10:19] [Async Chat Thread - #5/INFO]: [Not Secure] <IloveyouValeria> se lageo
-[18:10:28] [Async Chat Thread - #5/INFO]: [Not Secure] <IloveyouValeria> mis carteles
-[18:10:33] [Server thread/INFO]: IloveStiven_ issued server command: /kill IFrom_t8
-[18:10:33] [Server thread/INFO]: IFrom_t8 was killed
-[18:10:33] [Server thread/INFO]: [IloveStiven_: Killed IFrom_t8]
-[18:10:42] [Server thread/INFO]: IloveStiven_ issued server command: /deop IloveStiven_
-[18:10:42] [Server thread/INFO]: [IloveStiven_: Made IloveStiven_ no longer a server operator]
-[18:10:49] [Async Chat Thread - #5/INFO]: [Not Secure] <IloveyouValeria> bro cat el stiven le dijo a t8 que me pusieran penes con proteccion
-[18:11:01] [Async Chat Thread - #5/INFO]: [Not Secure] <IloveyouValeria> si claro
-[18:11:27] [Async Chat Thread - #5/INFO]: [Not Secure] <IloveyouValeria> tons fueron todos
-[18:11:36] [Async Chat Thread - #5/INFO]: [Not Secure] <IloveyouValeria> cat di la verdad
-[18:11:38] [Server thread/INFO]: icat1_1 issued server command: /msg IloveStiven_ sapo
-[18:11:51] [Async Chat Thread - #4/INFO]: [Not Secure] <IloveyouValeria> hp me voy a vengar
-[18:12:13] [Async Chat Thread - #4/INFO]: [Not Secure] <IloveyouValeria> acticalo
-[18:12:17] [Async Chat Thread - #4/INFO]: [Not Secure] <IloveyouValeria> activalo
-[18:12:35] [Async Chat Thread - #4/INFO]: [Not Secure] <IloveyouValeria> otro pene me isieron t8
-[18:14:24] [Server thread/INFO]: icat1_1 issued server command: /plugins
-[18:14:41] [Server thread/INFO]: IloveyouValeria has made the advancement [What a Deal!]
-[18:15:10] [Async Chat Thread - #6/INFO]: [Not Secure] <IloveyouValeria> stiven quita el pene frente mi casa
-[18:15:22] [Server thread/INFO]: icat1_1 issued server command: /plugins
-[18:15:23] [Async Chat Thread - #6/INFO]: [Not Secure] <IloveyouValeria> stiven quita el pene frente mi casa
-[18:15:37] [Async Chat Thread - #6/INFO]: [Not Secure] <IloveyouValeria> pero ponte op y quitalo
-[18:15:43] [Async Chat Thread - #6/INFO]: [Not Secure] <IloveyouValeria> creativo y quitalo
-[18:16:01] [Server thread/INFO]: Made IloveStiven_ a server operator
-[18:16:06] [Server thread/INFO]: IloveStiven_ issued server command: /gamemode creative
-[18:16:06] [Server thread/INFO]: [IloveStiven_: Set own game mode to Creative Mode]
-[18:16:14] [Async Chat Thread - #6/INFO]: [Not Secure] <IloveyouValeria> demme libros plis
-[18:16:15] [Server thread/INFO]: IloveStiven_ issued server command: /gamemode survival
-[18:16:15] [Server thread/INFO]: [IloveStiven_: Set own game mode to Survival Mode]
-[18:16:25] [Server thread/INFO]: IloveyouValeria was slain by Iron Golem
-[18:16:27] [Server thread/INFO]: icat1_1 issued server command: /plugins
-[18:16:28] [Server thread/INFO]: IloveStiven_ issued server command: /deop iMathias1
-[18:16:28] [Server thread/INFO]: [IloveStiven_: Made iMathias1 no longer a server operator]
-[18:16:28] [Async Chat Thread - #6/INFO]: [Not Secure] <IloveyouValeria> bro
-[18:16:32] [Server thread/INFO]: IloveStiven_ issued server command: /deop IloveStiven_
-[18:16:32] [Server thread/INFO]: [IloveStiven_: Made IloveStiven_ no longer a server operator]
-[18:17:05] [Server thread/INFO]: IloveStiven_ lost connection: Disconnected
-[18:17:05] [Server thread/INFO]: IloveStiven_ left the game
-[18:17:17] [Async Chat Thread - #6/INFO]: [Not Secure] <IloveyouValeria> xd
-[18:17:19] [User Authenticator #8/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
-[18:17:20] [Server thread/INFO]: IloveStiven_ joined the game
-[18:17:20] [Server thread/INFO]: IloveStiven_[/127.115.12.219:39759] logged in with entity id 7184 at ([world]576.022789548537, 110.5, -847.361006269195)
-[18:17:25] [Server thread/INFO]: IloveStiven_ lost connection: Disconnected
-[18:17:25] [Server thread/INFO]: IloveStiven_ left the game
-[18:17:29] [Server thread/INFO]: icat1_1 issued server command: /plugins
-[18:17:36] [Server thread/INFO]: icat1_1 lost connection: Disconnected
-[18:17:36] [Server thread/INFO]: icat1_1 left the game
-[18:17:37] [Async Chat Thread - #6/INFO]: [Not Secure] <IloveyouValeria> nolo tengo
-[18:17:45] [Async Chat Thread - #6/INFO]: [Not Secure] <IloveyouValeria> ese es el mio
-[18:18:22] [User Authenticator #9/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
-[18:18:22] [Server thread/INFO]: icat1_1 joined the game
-[18:18:22] [Server thread/INFO]: icat1_1[/127.198.31.200:52635] logged in with entity id 7313 at ([world]565.1462238997462, 112.0, -851.4658250755527)
-[18:19:07] [Async Chat Thread - #8/INFO]: [Not Secure] <IloveyouValeria> cat
-[18:19:12] [Async Chat Thread - #8/INFO]: [Not Secure] <IloveyouValeria> cat
-[18:19:13] [Async Chat Thread - #8/INFO]: [Not Secure] <IloveyouValeria> cat
-[18:19:14] [Async Chat Thread - #8/INFO]: [Not Secure] <IloveyouValeria> cat
-[18:19:14] [Async Chat Thread - #8/INFO]: [Not Secure] <IloveyouValeria> cat
-[18:19:15] [Async Chat Thread - #8/INFO]: [Not Secure] <IloveyouValeria> cat
-[18:19:15] [Async Chat Thread - #8/INFO]: [Not Secure] <IloveyouValeria> cat
-[18:19:16] [Async Chat Thread - #8/INFO]: [Not Secure] <IloveyouValeria> cat
-[18:19:17] [Async Chat Thread - #8/INFO]: [Not Secure] <IloveyouValeria> cat
-[18:19:17] [Async Chat Thread - #8/INFO]: [Not Secure] <IloveyouValeria> cat
-[18:19:18] [Async Chat Thread - #8/INFO]: [Not Secure] <IloveyouValeria> cat
-[18:19:26] [Async Chat Thread - #8/INFO]: [Not Secure] <icat1_1> ?
-[18:19:32] [User Authenticator #10/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
-[18:19:32] [Server thread/INFO]: IloveStiven_ joined the game
-[18:19:32] [Server thread/INFO]: IloveStiven_[/127.115.12.219:46333] logged in with entity id 7408 at ([world]576.022789548537, 110.5, -847.361006269195)
-[18:19:37] [Async Chat Thread - #8/INFO]: [Not Secure] <IloveyouValeria> stiven
-[18:19:39] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[18:19:39] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[18:19:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:19:39] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:19:39] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.13
-[18:19:39] [Server thread/INFO]: [ClickVillagers] Disabling ClickVillagers v1.4.1
-[18:19:39] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.9
-[18:19:39] [Server thread/INFO]: [BreakTogether] Disabling BreakTogether v1.6
-[18:19:39] [Server thread/INFO]: BreakTogether 1.6 has been disabled!
-[18:19:39] [Server thread/INFO]: Loaded 1290 recipes
-[18:19:39] [Server thread/INFO]: Loaded 1399 advancements
-[18:19:40] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:19:40] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/TreeCuter-v1.9.1 (1).jar'...
-[18:19:40] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/TreeCuter-v1.9.1.jar'...
-[18:19:41] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/TreeCuter-v1.9.1 (1).jar' in 675ms.
-[18:19:41] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/TreeCuter-v1.9.1.jar' in 683ms.
-[18:19:41] [Server thread/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[18:19:41] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+[14:13:41] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[14:13:41] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[14:13:42] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:13:42] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[14:13:42] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
  - BlockLocker (1.13), BreakTogether (1.6), ClickVillagers (1.4.1), SkinsRestorer (15.7.9), TreeCuter (v1.9.1)
-[18:19:41] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'TreeCuter' for files 'plugins/.paper-remapped/TreeCuter-v1.9.1.jar' and 'plugins/.paper-remapped/TreeCuter-v1.9.1 (1).jar' in 'plugins/.paper-remapped'
-[18:19:41] [Server thread/INFO]: [BreakTogether] Loading server plugin BreakTogether v1.6
-[18:19:41] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.9
-[18:19:41] [Server thread/INFO]: [ClickVillagers] Loading server plugin ClickVillagers v1.4.1
-[18:19:41] [Server thread/INFO]: [TreeCuter] Loading server plugin TreeCuter vv1.9.1
-[18:19:41] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
-[18:19:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:19:41] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.9
-[18:19:42] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[18:19:44] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[18:19:44] [Async Chat Thread - #9/INFO]: [Not Secure] <IloveyouValeria> suigmeme
-[18:19:45] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[18:19:45] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
-[18:19:45] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
-[18:19:45] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
-[18:19:45] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
-[18:19:45] [Server thread/INFO]: [BreakTogether] Enabling BreakTogether v1.6
-[18:19:45] [Server thread/INFO]: BreakTogether 1.6  has been enabled!
-[18:19:45] [Server thread/INFO]: [ClickVillagers] Enabling ClickVillagers v1.4.1
-[18:19:45] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:19:45] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[18:19:45] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[18:19:45] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
-[18:19:45] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[18:19:45] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[18:19:45] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:19:45] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.7.9
-[18:19:45] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: eb4ae0c
-[18:19:45] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
-[18:19:45] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:19:45] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[18:19:45] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[18:19:45] [Server thread/INFO]: [ClickVillagers] Checking for updates...
-[18:19:45] [Server thread/INFO]: [TreeCuter] Enabling TreeCuter vv1.9.1
-[18:19:45] [Server thread/INFO]: [GlowingEntities] [GlowingEntities] Found server version 1.21.1
-[18:19:45] [Server thread/INFO]: [GlowingEntities] [GlowingEntities] Loaded transparent mappings.
-[18:19:45] [Server thread/INFO]: 
-[18:19:45] [Server thread/INFO]: TreeCuter by Norbit4!
-[18:19:45] [Server thread/INFO]: 
-[18:19:45] [Server thread/INFO]: CONSOLE: Reload complete.
-[18:19:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6455ms or 129 ticks behind
-[18:19:45] [Server thread/INFO]: Timings Reset
-[18:19:48] [Server thread/INFO]: icat1_1 issued server command: /plugins
-[18:20:11] [Async Chat Thread - #9/INFO]: [Not Secure] <IloveyouValeria> quita esos carteles
-[18:20:25] [Async Chat Thread - #9/INFO]: [Not Secure] <IloveyouValeria> quita los cofres
-[18:20:29] [Server thread/INFO]: Made IloveStiven_ a server operator
-[18:20:41] [Server thread/INFO]: IloveStiven_ issued server command: /deop IloveStiven_
-[18:20:41] [Server thread/INFO]: [IloveStiven_: Made IloveStiven_ no longer a server operator]
-[18:20:44] [Async Chat Thread - #9/INFO]: [Not Secure] <IloveyouValeria> suigmeme
-[18:20:58] [Async Chat Thread - #9/INFO]: [Not Secure] <IloveyouValeria> stiven
-[18:21:06] [Async Chat Thread - #9/INFO]: [Not Secure] <IloveyouValeria> quita esto
-[18:21:23] [Async Chat Thread - #9/INFO]: [Not Secure] <IloveyouValeria> mi casa no
-[18:21:41] [Server thread/INFO]: IloveyouValeria lost connection: Disconnected
-[18:21:41] [Server thread/INFO]: IloveyouValeria left the game
-[18:24:09] [Server thread/INFO]: IloveStiven_ has made the advancement [Take Aim]
-[18:25:36] [User Authenticator #11/INFO]: UUID of player Septxmbrz is 1d758a91-a3f3-3b42-ba12-800b9c84367c
-[18:25:38] [Server thread/INFO]: Septxmbrz joined the game
-[18:25:38] [Server thread/INFO]: Septxmbrz[/127.80.7.170:47673] logged in with entity id 8539 at ([world]2.5, 74.0, 30.5)
-[18:25:55] [Async Chat Thread - #10/INFO]: [Not Secure] <icat1_1> 585 112 -861
-[18:26:51] [Server thread/INFO]: Septxmbrz was blown up by Creeper
-[18:27:00] [Server thread/INFO]: An entity is required to run this command here
-[18:27:26] [Server thread/INFO]: An entity is required to run this command here
-[18:27:27] [Server thread/INFO]: icat1_1 issued server command: /msg IFrom_t8 shhh
-[18:27:37] [Server thread/INFO]: icat1_1 issued server command: /msg IFrom_t8 shhh
-[18:27:37] [Server thread/INFO]: icat1_1 issued server command: /msg IFrom_t8 shhh
-[18:27:37] [Server thread/INFO]: icat1_1 issued server command: /msg IFrom_t8 shhh
-[18:27:44] [Server thread/INFO]: Septxmbrz was blown up by Creeper
-[18:27:49] [Async Chat Thread - #12/INFO]: [Not Secure] <Septxmbrz> as
-[18:27:54] [Server thread/INFO]: An entity is required to run this command here
-[18:28:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Septxmbrz> as
-[18:28:45] [Server thread/INFO]: An entity is required to run this command here
-[18:28:48] [Server thread/INFO]: Septxmbrz was shot by Skeleton
-[18:28:56] [Server thread/INFO]: An entity is required to run this command here
-[18:29:04] [Server thread/INFO]: An entity is required to run this command here
-[18:29:10] [Server thread/INFO]: Made IloveStiven_ a server operator
-[18:29:16] [Server thread/INFO]: IloveStiven_ issued server command: /tp Septxmbrz
-[18:29:16] [Server thread/INFO]: [IloveStiven_: Teleported IloveStiven_ to Septxmbrz]
-[18:29:26] [Server thread/INFO]: IloveStiven_ issued server command: /tp icat1_1
-[18:29:26] [Server thread/INFO]: [IloveStiven_: Teleported IloveStiven_ to icat1_1]
-[18:29:37] [Server thread/INFO]: IloveStiven_ issued server command: /tps Septxmbrz
-[18:29:52] [Async Chat Thread - #14/INFO]: [Not Secure] <icat1_1> ./tp septxmbrz icat1_1
-[18:29:53] [Server thread/INFO]: IloveStiven_ issued server command: /tpa
-[18:30:03] [Server thread/INFO]: IloveStiven_ issued server command: /tp Septxmbrz 1 ~
-[18:30:06] [Server thread/INFO]: IloveStiven_ issued server command: /tp Septxmbrz icat1_1
-[18:30:06] [Server thread/INFO]: [IloveStiven_: Teleported Septxmbrz to icat1_1]
-[18:30:31] [Server thread/INFO]: Septxmbrz has made the advancement [Acquire Hardware]
-[18:31:05] [Server thread/INFO]: Septxmbrz has made the advancement [Suit Up]
-[18:31:51] [Server thread/INFO]: Septxmbrz has made the advancement [Isn't It Iron Pick]
-[18:35:46] [Server thread/INFO]: IloveStiven_ lost connection: Disconnected
-[18:35:46] [Server thread/INFO]: IloveStiven_ left the game
-[18:36:12] [Server thread/INFO]: Septxmbrz has made the advancement [Stone Age]
-[18:43:25] [Server thread/INFO]: Septxmbrz has made the advancement [Monster Hunter]
-[18:47:19] [Server thread/INFO]: Made icat1_1 a server operator
-[18:47:59] [Server thread/INFO]: IFrom_t8 lost connection: Disconnected
-[18:47:59] [Server thread/INFO]: IFrom_t8 left the game
-[18:48:19] [Server thread/INFO]: Septxmbrz has made the advancement [Sweet Dreams]
-[18:51:15] [Server thread/INFO]: Septxmbrz issued server command: /spawn
-[18:52:22] [Server thread/INFO]: Septxmbrz has made the advancement [What a Deal!]
-[18:57:27] [Server thread/INFO]: Septxmbrz has made the advancement [Cover Me with Diamonds]
-[19:00:37] [Server thread/INFO]: Septxmbrz issued server command: /pv 1
-[19:02:52] [User Authenticator #12/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
-[19:02:53] [Server thread/INFO]: IloveStiven_ joined the game
-[19:02:53] [Server thread/INFO]: IloveStiven_[/127.115.12.219:34881] logged in with entity id 18418 at ([world]582.383034979038, 114.5, -852.0597452321502)
-[19:06:45] [Server thread/INFO]: icat1_1 issued server command: /deop icat1_1
-[19:06:45] [Server thread/INFO]: [icat1_1: Made icat1_1 no longer a server operator]
-[19:07:13] [User Authenticator #13/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
-[19:07:15] [Server thread/INFO]: IFrom_t8 joined the game
-[19:07:15] [Server thread/INFO]: IFrom_t8[/127.141.254.15:41155] logged in with entity id 20110 at ([world]570.4875000119209, 111.0, -842.3000000119209)
-[19:08:06] [Server thread/INFO]: Septxmbrz has made the advancement [Not Today, Thank You]
-[19:09:32] [Server thread/INFO]: Septxmbrz has made the advancement [Ice Bucket Challenge]
-[19:16:24] [Server thread/INFO]: IloveStiven_ was shot by Skeleton
-[19:17:55] [Server thread/INFO]: IFrom_t8 issued server command: /spawn
-[19:27:18] [Async Chat Thread - #16/INFO]: [Not Secure] <icat1_1> ./modo de juego volar
-[19:27:50] [Server thread/INFO]: IloveStiven_ issued server command: /pv 1
-[19:27:50] [Async Chat Thread - #16/INFO]: [Not Secure] <icat1_1> ./geimmod crative
-[19:28:18] [Async Chat Thread - #16/INFO]: [Not Secure] <Septxmbrz> ./modo de juego volar
-[19:30:27] [Async Chat Thread - #18/INFO]: [Not Secure] <icat1_1> ./creativo
-[19:30:33] [Async Chat Thread - #18/INFO]: [Not Secure] <icat1_1> ./dar pan a todos
-[19:31:11] [Async Chat Thread - #18/INFO]: [Not Secure] <icat1_1> ./dar kit mewto a todos
-[19:31:20] [Async Chat Thread - #19/INFO]: [Not Secure] <Septxmbrz> ./mucho pene para stiven
-[19:36:52] [Server thread/INFO]: IFrom_t8 lost connection: Timed out
-[19:36:52] [Server thread/INFO]: IFrom_t8 left the game
-[19:37:59] [Async Chat Thread - #21/INFO]: [Not Secure] <IloveStiven_> PONGAN CARTELES
-[19:39:02] [User Authenticator #14/INFO]: UUID of player IFrom_t8 is 7aab61c8-0008-3fb4-abef-0781d1c97353
-[19:39:04] [Server thread/INFO]: IFrom_t8 joined the game
-[19:39:04] [Server thread/INFO]: IFrom_t8[/127.141.254.15:57145] logged in with entity id 30466 at ([world]591.3000000119209, 110.0, -874.6624195282573)
-[19:42:05] [Server thread/INFO]: icat1_1 lost connection: Timed out
-[19:42:05] [Server thread/INFO]: icat1_1 left the game
-[19:47:14] [Server thread/INFO]: Septxmbrz lost connection: Disconnected
-[19:47:14] [Server thread/INFO]: Septxmbrz left the game
-[19:47:33] [User Authenticator #15/INFO]: UUID of player Septxmbrz is 1d758a91-a3f3-3b42-ba12-800b9c84367c
-[19:47:35] [Server thread/INFO]: Septxmbrz joined the game
-[19:47:35] [Server thread/INFO]: Septxmbrz[/127.80.7.170:55571] logged in with entity id 32173 at ([world]566.8222403869905, 110.0, -885.1258548988812)
-[19:52:49] [Server thread/INFO]: Septxmbrz lost connection: Disconnected
-[19:52:49] [Server thread/INFO]: Septxmbrz left the game
-[19:54:11] [Server thread/INFO]: IloveStiven_ lost connection: Disconnected
-[19:54:11] [Server thread/INFO]: IloveStiven_ left the game
-[19:55:56] [Server thread/INFO]: IFrom_t8 lost connection: Disconnected
-[19:55:56] [Server thread/INFO]: IFrom_t8 left the game
+[14:13:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:13:48] [ServerMain/INFO]: Loaded 1290 recipes
+[14:13:49] [ServerMain/INFO]: Loaded 1399 advancements
+[14:13:49] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[14:13:49] [Server thread/INFO]: Loading properties
+[14:13:49] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[14:13:50] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:13:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:13:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:13:51] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[14:13:51] [Server thread/INFO]: Default game type: SURVIVAL
+[14:13:51] [Server thread/INFO]: Generating keypair
+[14:13:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:13:51] [Server thread/INFO]: Using epoll channel type
+[14:13:51] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:13:51] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[14:13:51] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'TreeCuter' for files 'plugins/.paper-remapped/TreeCuter-v1.9.1.jar' and 'plugins/.paper-remapped/TreeCuter-v1.9.1.jar' in 'plugins/.paper-remapped'
+[14:13:51] [Server thread/INFO]: [BreakTogether] Loading server plugin BreakTogether v1.6
+[14:13:51] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.9
+[14:13:51] [Server thread/INFO]: [ClickVillagers] Loading server plugin ClickVillagers v1.4.1
+[14:13:51] [Server thread/INFO]: [TreeCuter] Loading server plugin TreeCuter vv1.9.1
+[14:13:51] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
+[14:13:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:13:51] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.9
+[14:13:53] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[14:13:54] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[14:13:55] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
+[14:13:55] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[14:13:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:13:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[14:13:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[14:13:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[14:13:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[14:13:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[14:13:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:13:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.9
+[14:13:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: eb4ae0c
+[14:13:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[14:13:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:13:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[14:13:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[14:14:01] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_door, ignoring it
+[14:14:01] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_fence_gate, ignoring it
+[14:14:01] [Server thread/WARN]: [BlockLocker] Cannot recognize material pale_oak_trapdoor, ignoring it
+[14:14:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:14:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:14:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:14:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:14:01] [Server thread/INFO]: Preparing level "world"
+[14:14:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:14:03] [Server thread/INFO]: Time elapsed: 1153 ms
+[14:14:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:14:03] [Server thread/INFO]: Time elapsed: 167 ms
+[14:14:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:14:03] [Server thread/INFO]: Time elapsed: 138 ms
+[14:14:03] [Server thread/INFO]: [BreakTogether] Enabling BreakTogether v1.6
+[14:14:03] [Server thread/INFO]: BreakTogether 1.6  has been enabled!
+[14:14:03] [Server thread/INFO]: [ClickVillagers] Enabling ClickVillagers v1.4.1
+[14:14:03] [Server thread/INFO]: [ClickVillagers] Checking for updates...
+[14:14:03] [Server thread/INFO]: [TreeCuter] Enabling TreeCuter vv1.9.1
+[14:14:03] [Server thread/INFO]: [GlowingEntities] [GlowingEntities] Found server version 1.21.1
+[14:14:03] [Server thread/INFO]: [GlowingEntities] [GlowingEntities] Loaded transparent mappings.
+[14:14:04] [Server thread/INFO]: 
+[14:14:04] [Server thread/INFO]: TreeCuter by Norbit4!
+[14:14:04] [Server thread/INFO]: 
+[14:14:04] [Server thread/INFO]: [spark] Starting background profiler...
+[14:14:04] [Server thread/INFO]: Done preparing level "world" (2.816s)
+[14:14:04] [Server thread/INFO]: Running delayed init tasks
+[14:14:04] [Server thread/INFO]: Done (23.715s)! For help, type "help"
+[14:14:04] [Server thread/INFO]: Timings Reset
+[14:14:07] [User Authenticator #0/INFO]: UUID of player icat1_1 is 3b4b8178-8421-365e-83d3-d743844fef79
+[14:14:08] [Server thread/INFO]: icat1_1 joined the game
+[14:14:08] [Server thread/INFO]: icat1_1[/127.198.31.200:46477] logged in with entity id 21 at ([world]526.6625324996704, 111.0, -859.6434928326994)
+[14:16:50] [User Authenticator #1/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
+[14:16:52] [Server thread/INFO]: IloveStiven_ joined the game
+[14:16:52] [Server thread/INFO]: IloveStiven_[/127.115.12.219:59231] logged in with entity id 1052 at ([world]616.2050132562025, 110.0, -872.5677251107626)
+[14:18:57] [User Authenticator #2/INFO]: UUID of player iT8xz is 0f713ffe-739b-3843-978b-a1506e2e369a
+[14:19:01] [Server thread/INFO]: iT8xz joined the game
+[14:19:01] [Server thread/INFO]: iT8xz[/127.141.254.15:35191] logged in with entity id 1298 at ([world]-8.5, 96.0, 40.5)
+[14:19:23] [Async Chat Thread - #0/INFO]: [Not Secure] <icat1_1> iFrom_T8
+[14:19:38] [Server thread/INFO]: iT8xz issued server command: /spawn
+[14:19:38] [Server thread/INFO]: iT8xz issued server command: /spawn
+[14:19:50] [Server thread/INFO]: iT8xz lost connection: Disconnected
+[14:19:50] [Server thread/INFO]: iT8xz left the game
+[14:19:57] [User Authenticator #3/INFO]: UUID of player iT8xz is 0f713ffe-739b-3843-978b-a1506e2e369a
+[14:19:59] [Server thread/INFO]: iT8xz joined the game
+[14:19:59] [Server thread/INFO]: iT8xz[/127.141.254.15:39035] logged in with entity id 1683 at ([world]22.200417126887697, 71.0, 31.330710155258192)
+[14:21:01] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:22:07] [Server thread/INFO]: IloveStiven_ has made the advancement [Ice Bucket Challenge]
+[14:22:40] [Server thread/INFO]: IloveStiven_ issued server command: /tp iT8xz icat1_1
+[14:22:40] [Server thread/INFO]: [IloveStiven_: Teleported iT8xz to icat1_1]
+[14:23:10] [Server thread/INFO]: iT8xz has made the advancement [Sweet Dreams]
+[14:23:27] [User Authenticator #4/INFO]: UUID of player iFrom_T8 is d02e265c-99d6-33ff-9038-4e45a08b38f4
+[14:23:28] [Server thread/INFO]: iFrom_T8 joined the game
+[14:23:28] [Server thread/INFO]: iFrom_T8[/127.198.31.200:60927] logged in with entity id 2813 at ([world]-0.5, 74.0, 24.5)
